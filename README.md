@@ -10,4 +10,4 @@
 
 **Purpose:** define the products to be sale and their best sale prices.
 
-**Strategy:**
+**Strategy:** keep operational cost and price the lowest as possible in the beginning and enhance them as long as more costumers are won. 
