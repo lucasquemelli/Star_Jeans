@@ -17,3 +17,17 @@ The partners hired a Data Science consultancy company to answer the following qu
 1. What is the best jeans sale price?
 2. How many different types of jeans and colors should we choose?
 3. What raw materials should we choose to make the jeans?  
+
+# 2. Business Assumptions (Formulated Hypothesis)
+
+**Asumptions (hypothesis)** were formulated in order to be tested.
+
+# 3. Solution Strategy
+
+# 4. Top 3 Data Insights
+
+# 5. Business Results
+
+# 6. Conclusions
+
+# 7. Next Steps
