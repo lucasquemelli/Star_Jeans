@@ -1,4 +1,4 @@
-# star_jeans
+# Star_Jeans
 
 <code><img width="100%" src="https://github.com/lucasquemelli/star_jeans/blob/main/cover%20image/jeans.jpg"></code>
 
