@@ -18,11 +18,23 @@ The partners hired a Data Science consultancy company to answer the following qu
 2. How many different types of jeans and colors should we choose?
 3. What raw materials should we choose to make the jeans?  
 
+The main Star Jeans competitors are the American enterpises H&M and Macys. 
+
 # 2. Business Assumptions (Formulated Hypothesis)
 
 **Asumptions (hypothesis)** were formulated in order to be tested.
 
 # 3. Solution Strategy
+
+**Step 01 - Database:** creating a database containing informations such as prices, types, raw materials, color and collection time.
+
+**Step 02 - Schema:** defining the table schema (columns). 
+
+**Step 03 - Infrastructure:** defining the infrastructure (database, csv, API, etc).
+
+**Step 04 - Datapipeline:** creating a datapipeline to extract, transform and load the data. 
+
+**Step 05 - Descriptive Statistics:** Calculating the competitors descriptive statistics related to the price per type, raw material, color and collection time.
 
 # 4. Top 3 Data Insights
 
