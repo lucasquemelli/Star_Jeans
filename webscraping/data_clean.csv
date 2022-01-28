@@ -1,0 +1,1053 @@
+,id,product_name,product_type,price,datetime,style_id,color_id,color,Fit,Composition,cotton,polyester,spandex
+0,811993040,regular_jeans,men_jeans_regular,29.99,2022-01-27 19:43:16,811993,40,black_washed_out,regular_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+1,811993040,regular_jeans,men_jeans_regular,29.99,2022-01-27 19:43:16,811993,40,denim_blue,regular_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+2,811993040,regular_jeans,men_jeans_regular,29.99,2022-01-27 19:43:16,811993,40,dark_denim_blue,regular_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+3,811993040,regular_jeans,men_jeans_regular,29.99,2022-01-27 19:43:16,811993,40,graphite_gray,regular_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+4,811993040,regular_jeans,men_jeans_regular,29.99,2022-01-27 19:43:16,811993,40,light_denim_blue,regular_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+5,811993040,regular_jeans,men_jeans_regular,29.99,2022-01-27 19:43:16,811993,40,black,regular_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+6,811993040,regular_jeans,men_jeans_regular,29.99,2022-01-27 19:43:16,811993,40,cream,regular_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+7,811993040,regular_jeans,men_jeans_regular,29.99,2022-01-27 19:43:16,811993,40,denim_blue,regular_fit,"Cotton 98%, Spandex 2%",0.98,0.2,0.02
+8,811993040,regular_jeans,men_jeans_regular,29.99,2022-01-27 19:43:16,811993,40,light_blue,regular_fit,"Cotton 98%, Spandex 2%",0.98,0.2,0.02
+9,811993040,regular_jeans,men_jeans_regular,29.99,2022-01-27 19:43:16,811993,40,denim_blue,regular_fit,"Cotton 98%, Spandex 2%",0.98,0.2,0.02
+10,811993040,regular_jeans,men_jeans_regular,29.99,2022-01-27 19:43:16,811993,40,dark_denim_blue,regular_fit,"Cotton 98%, Spandex 2%",0.98,0.2,0.02
+11,811993040,regular_jeans,men_jeans_regular,29.99,2022-01-27 19:43:16,811993,40,pale_denim_blue,regular_fit,"Cotton 98%, Spandex 2%",0.98,0.2,0.02
+12,811993040,regular_jeans,men_jeans_regular,29.99,2022-01-27 19:43:16,811993,40,dark_blue,regular_fit,"Cotton 98%, Spandex 2%",0.98,0.2,0.02
+13,811993040,regular_jeans,men_jeans_regular,29.99,2022-01-27 19:43:16,811993,40,dark_denim_blue,regular_fit,"Cotton 98%, Spandex 2%",0.98,0.2,0.02
+14,811993040,regular_jeans,men_jeans_regular,29.99,2022-01-27 19:43:16,811993,40,black,regular_fit,"Cotton 98%, Spandex 2%",0.98,0.19,0.02
+15,811993040,regular_jeans,men_jeans_regular,29.99,2022-01-27 19:43:16,811993,40,black_washed_out,regular_fit,"Cotton 98%, Spandex 2%",0.98,0.19,0.02
+16,811993040,regular_jeans,men_jeans_regular,29.99,2022-01-27 19:43:16,811993,40,denim_blue,regular_fit,"Cotton 98%, Spandex 2%",0.98,0.19,0.02
+17,811993040,regular_jeans,men_jeans_regular,29.99,2022-01-27 19:43:16,811993,40,dark_denim_blue,regular_fit,"Cotton 98%, Spandex 2%",0.98,0.19,0.02
+18,811993040,regular_jeans,men_jeans_regular,29.99,2022-01-27 19:43:16,811993,40,graphite_gray,regular_fit,"Cotton 98%, Spandex 2%",0.98,0.19,0.02
+19,811993040,regular_jeans,men_jeans_regular,29.99,2022-01-27 19:43:16,811993,40,light_denim_blue,regular_fit,"Cotton 98%, Spandex 2%",0.98,0.19,0.02
+20,811993040,regular_jeans,men_jeans_regular,29.99,2022-01-27 19:43:16,811993,40,black,regular_fit,"Cotton 98%, Spandex 2%",0.98,0.19,0.02
+21,811993040,regular_jeans,men_jeans_regular,29.99,2022-01-27 19:43:16,811993,40,cream,regular_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+22,811993040,regular_jeans,men_jeans_regular,29.99,2022-01-27 19:43:16,811993,40,denim_blue,regular_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+23,811993040,regular_jeans,men_jeans_regular,29.99,2022-01-27 19:43:16,811993,40,light_blue,regular_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+24,811993040,regular_jeans,men_jeans_regular,29.99,2022-01-27 19:43:16,811993,40,denim_blue,regular_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+25,811993040,regular_jeans,men_jeans_regular,29.99,2022-01-27 19:43:16,811993,40,dark_denim_blue,regular_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+26,811993040,regular_jeans,men_jeans_regular,29.99,2022-01-27 19:43:16,811993,40,pale_denim_blue,regular_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+27,811993040,regular_jeans,men_jeans_regular,29.99,2022-01-27 19:43:16,811993,40,blue,regular_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+28,811993040,regular_jeans,men_jeans_regular,29.99,2022-01-27 19:43:16,811993,40,dark_blue,regular_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+29,811993040,regular_jeans,men_jeans_regular,29.99,2022-01-27 19:43:16,811993,40,dark_denim_blue,regular_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+30,1013317002,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,2,light_denim_blue,regular_fit,"Cotton 78%, Polyester 21%, Spandex 1%",0.78,0.21,0.02
+31,1013317002,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,2,denim_blue,regular_fit,"Cotton 78%, Polyester 21%, Spandex 1%",0.78,0.21,0.02
+32,1013317002,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,2,black,regular_fit,"Cotton 78%, Polyester 21%, Spandex 1%",0.78,0.21,0.02
+33,1013317002,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,2,dark_gray,regular_fit,"Cotton 78%, Polyester 21%, Spandex 1%",0.78,0.21,0.02
+34,1013317002,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,2,black,regular_fit,"Cotton 78%, Polyester 21%, Spandex 1%",0.78,0.21,0.02
+35,1013317002,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,2,dark_blue,regular_fit,"Cotton 78%, Polyester 21%, Spandex 1%",0.78,0.21,0.02
+36,1013317002,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,2,black,regular_fit,"Cotton 78%, Polyester 21%, Spandex 1%",0.78,0.21,0.02
+37,1013317002,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,2,light_denim_blue,regular_fit,"Cotton 79%, Polyester 20%, Spandex 1%",0.79,0.21,0.02
+38,1013317002,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,2,denim_blue,regular_fit,"Cotton 79%, Polyester 20%, Spandex 1%",0.79,0.21,0.02
+39,1013317002,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,2,black,regular_fit,"Cotton 79%, Polyester 20%, Spandex 1%",0.79,0.21,0.02
+40,1013317002,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,2,dark_gray,regular_fit,"Cotton 79%, Polyester 20%, Spandex 1%",0.79,0.21,0.02
+41,1013317002,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,2,black,regular_fit,"Cotton 79%, Polyester 20%, Spandex 1%",0.79,0.21,0.02
+42,1013317002,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,2,dark_blue,regular_fit,"Cotton 79%, Polyester 20%, Spandex 1%",0.79,0.19,0.02
+43,1013317002,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,2,black,regular_fit,"Cotton 79%, Polyester 20%, Spandex 1%",0.79,0.19,0.02
+44,1013317002,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,2,light_denim_blue,regular_fit,"Cotton 80%, Polyester 19%, Spandex 1%",0.8,0.19,0.02
+45,1013317002,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,2,denim_blue,regular_fit,"Cotton 80%, Polyester 19%, Spandex 1%",0.8,0.19,0.02
+46,1013317002,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,2,black,regular_fit,"Cotton 80%, Polyester 19%, Spandex 1%",0.8,0.19,0.02
+47,1013317002,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,2,dark_gray,regular_fit,"Cotton 80%, Polyester 19%, Spandex 1%",0.8,0.19,0.02
+48,1013317002,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,2,black,regular_fit,"Cotton 80%, Polyester 19%, Spandex 1%",0.8,0.19,0.02
+49,1013317002,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,2,dark_blue,regular_fit,"Cotton 80%, Polyester 19%, Spandex 1%",0.8,0.19,0.02
+50,1013317002,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,2,black,regular_fit,"Cotton 80%, Polyester 19%, Spandex 1%",0.8,0.19,0.02
+51,1013317002,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,2,light_denim_blue,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,0.19,0.02
+52,1013317002,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,2,light_denim_blue,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,0.19,0.02
+53,1013317002,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,2,denim_blue,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,0.19,0.02
+54,1013317002,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,2,denim_blue,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,0.19,0.02
+55,1013317002,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,2,black,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,0.19,0.02
+56,1013317002,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,2,black,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,0.21,0.02
+57,1013317002,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,2,dark_gray,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,0.21,0.02
+58,1013317002,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,2,dark_gray,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,0.21,0.02
+59,1013317002,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,2,black,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,0.21,0.02
+60,1013317002,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,2,black,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,0.21,0.02
+61,1013317002,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,2,dark_blue,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,0.21,0.02
+62,1013317002,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,2,dark_blue,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,0.21,0.02
+63,1013317002,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,2,black,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,0.2,0.02
+64,1013317002,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,2,black,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,0.2,0.02
+65,1013317002,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,2,light_denim_blue,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,0.2,0.02
+66,1013317002,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,2,denim_blue,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,0.2,0.02
+67,1013317002,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,2,black,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,0.2,0.02
+68,1013317002,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,2,dark_gray,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,0.2,0.02
+69,1013317002,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,2,black,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,0.2,0.02
+70,1013317002,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,2,dark_blue,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,0.19,0.02
+71,1013317002,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,2,black,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,0.19,0.02
+72,1013317002,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,2,light_denim_blue,regular_fit,"Cotton 79%, Polyester 19%, Spandex 2%",0.79,0.19,0.02
+73,1013317002,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,2,light_denim_blue,regular_fit,"Cotton 79%, Polyester 19%, Spandex 2%",0.79,0.19,0.02
+74,1013317002,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,2,denim_blue,regular_fit,"Cotton 79%, Polyester 19%, Spandex 2%",0.79,0.19,0.02
+75,1013317002,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,2,denim_blue,regular_fit,"Cotton 79%, Polyester 19%, Spandex 2%",0.79,0.19,0.02
+76,1013317002,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,2,black,regular_fit,"Cotton 79%, Polyester 19%, Spandex 2%",0.79,0.19,0.02
+77,1013317002,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,2,black,regular_fit,"Cotton 79%, Polyester 19%, Spandex 2%",0.79,0.21,0.02
+78,1013317002,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,2,dark_gray,regular_fit,"Cotton 79%, Polyester 19%, Spandex 2%",0.79,0.21,0.02
+79,1013317002,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,2,dark_gray,regular_fit,"Cotton 79%, Polyester 19%, Spandex 2%",0.79,0.21,0.02
+80,1013317002,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,2,black,regular_fit,"Cotton 79%, Polyester 19%, Spandex 2%",0.79,0.21,0.02
+81,1013317002,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,2,black,regular_fit,"Cotton 79%, Polyester 19%, Spandex 2%",0.79,0.21,0.02
+82,1013317002,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,2,dark_blue,regular_fit,"Cotton 79%, Polyester 19%, Spandex 2%",0.79,0.21,0.02
+83,1013317002,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,2,dark_blue,regular_fit,"Cotton 79%, Polyester 19%, Spandex 2%",0.79,0.21,0.02
+84,1013317002,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,2,black,regular_fit,"Cotton 79%, Polyester 19%, Spandex 2%",0.79,0.21,0.02
+85,1013317002,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,2,black,regular_fit,"Cotton 79%, Polyester 19%, Spandex 2%",0.79,0.21,0.02
+86,1013317006,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,6,light_denim_blue,regular_fit,"Cotton 78%, Polyester 21%, Spandex 1%",0.78,0.21,0.02
+87,1013317006,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,6,denim_blue,regular_fit,"Cotton 78%, Polyester 21%, Spandex 1%",0.78,0.21,0.02
+88,1013317006,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,6,black,regular_fit,"Cotton 78%, Polyester 21%, Spandex 1%",0.78,0.21,0.02
+89,1013317006,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,6,dark_gray,regular_fit,"Cotton 78%, Polyester 21%, Spandex 1%",0.78,0.21,0.02
+90,1013317006,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,6,black,regular_fit,"Cotton 78%, Polyester 21%, Spandex 1%",0.78,0.21,0.02
+91,1013317006,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,6,dark_blue,regular_fit,"Cotton 78%, Polyester 21%, Spandex 1%",0.78,0.21,0.02
+92,1013317006,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,6,black,regular_fit,"Cotton 78%, Polyester 21%, Spandex 1%",0.78,0.21,0.02
+93,1013317006,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,6,light_denim_blue,regular_fit,"Cotton 79%, Polyester 20%, Spandex 1%",0.79,0.21,0.02
+94,1013317006,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,6,denim_blue,regular_fit,"Cotton 79%, Polyester 20%, Spandex 1%",0.79,0.21,0.02
+95,1013317006,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,6,black,regular_fit,"Cotton 79%, Polyester 20%, Spandex 1%",0.79,0.21,0.02
+96,1013317006,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,6,dark_gray,regular_fit,"Cotton 79%, Polyester 20%, Spandex 1%",0.79,0.21,0.02
+97,1013317006,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,6,black,regular_fit,"Cotton 79%, Polyester 20%, Spandex 1%",0.79,0.21,0.02
+98,1013317006,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,6,dark_blue,regular_fit,"Cotton 79%, Polyester 20%, Spandex 1%",0.79,0.19,0.02
+99,1013317006,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,6,black,regular_fit,"Cotton 79%, Polyester 20%, Spandex 1%",0.79,0.19,0.02
+100,1013317006,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,6,light_denim_blue,regular_fit,"Cotton 80%, Polyester 19%, Spandex 1%",0.8,0.19,0.02
+101,1013317006,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,6,denim_blue,regular_fit,"Cotton 80%, Polyester 19%, Spandex 1%",0.8,0.19,0.02
+102,1013317006,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,6,black,regular_fit,"Cotton 80%, Polyester 19%, Spandex 1%",0.8,0.19,0.02
+103,1013317006,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,6,dark_gray,regular_fit,"Cotton 80%, Polyester 19%, Spandex 1%",0.8,0.19,0.02
+104,1013317006,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,6,black,regular_fit,"Cotton 80%, Polyester 19%, Spandex 1%",0.8,0.19,0.02
+105,1013317006,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,6,dark_blue,regular_fit,"Cotton 80%, Polyester 19%, Spandex 1%",0.8,0.19,0.02
+106,1013317006,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,6,black,regular_fit,"Cotton 80%, Polyester 19%, Spandex 1%",0.8,0.19,0.02
+107,1013317006,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,6,light_denim_blue,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,0.19,0.02
+108,1013317006,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,6,light_denim_blue,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,0.19,0.02
+109,1013317006,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,6,denim_blue,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,0.19,0.02
+110,1013317006,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,6,denim_blue,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,0.19,0.02
+111,1013317006,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,6,black,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,0.19,0.02
+112,1013317006,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,6,black,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,0.21,0.02
+113,1013317006,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,6,dark_gray,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,0.21,0.02
+114,1013317006,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,6,dark_gray,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,0.21,0.02
+115,1013317006,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,6,black,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,0.21,0.02
+116,1013317006,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,6,black,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,0.21,0.02
+117,1013317006,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,6,dark_blue,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,0.21,0.02
+118,1013317006,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,6,dark_blue,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,0.21,0.02
+119,1013317006,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,6,black,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,0.2,0.02
+120,1013317006,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,6,black,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,0.2,0.02
+121,1013317006,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,6,light_denim_blue,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,0.2,0.02
+122,1013317006,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,6,denim_blue,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,0.2,0.02
+123,1013317006,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,6,black,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,0.2,0.02
+124,1013317006,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,6,dark_gray,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,0.2,0.02
+125,1013317006,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,6,black,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,0.2,0.02
+126,1013317006,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,6,dark_blue,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,0.19,0.02
+127,1013317006,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,6,black,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,0.19,0.02
+128,1013317006,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,6,light_denim_blue,regular_fit,"Cotton 79%, Polyester 19%, Spandex 2%",0.79,0.19,0.02
+129,1013317006,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,6,light_denim_blue,regular_fit,"Cotton 79%, Polyester 19%, Spandex 2%",0.79,0.19,0.02
+130,1013317006,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,6,denim_blue,regular_fit,"Cotton 79%, Polyester 19%, Spandex 2%",0.79,0.19,0.02
+131,1013317006,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,6,denim_blue,regular_fit,"Cotton 79%, Polyester 19%, Spandex 2%",0.79,0.19,0.02
+132,1013317006,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,6,black,regular_fit,"Cotton 79%, Polyester 19%, Spandex 2%",0.79,0.19,0.02
+133,1013317006,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,6,black,regular_fit,"Cotton 79%, Polyester 19%, Spandex 2%",0.79,0.21,0.02
+134,1013317006,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,6,dark_gray,regular_fit,"Cotton 79%, Polyester 19%, Spandex 2%",0.79,0.21,0.02
+135,1013317006,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,6,dark_gray,regular_fit,"Cotton 79%, Polyester 19%, Spandex 2%",0.79,0.21,0.02
+136,1013317006,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,6,black,regular_fit,"Cotton 79%, Polyester 19%, Spandex 2%",0.79,0.21,0.02
+137,1013317006,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,6,black,regular_fit,"Cotton 79%, Polyester 19%, Spandex 2%",0.79,0.21,0.02
+138,1013317006,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,6,dark_blue,regular_fit,"Cotton 79%, Polyester 19%, Spandex 2%",0.79,0.21,0.02
+139,1013317006,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,6,dark_blue,regular_fit,"Cotton 79%, Polyester 19%, Spandex 2%",0.79,0.21,0.02
+140,1013317006,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,6,black,regular_fit,"Cotton 79%, Polyester 19%, Spandex 2%",0.79,0.21,0.02
+141,1013317006,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,6,black,regular_fit,"Cotton 79%, Polyester 19%, Spandex 2%",0.79,0.21,0.02
+142,690449043,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,43,light_denim_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+143,690449043,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,43,denim_blue,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+144,690449043,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,43,black_washed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+145,690449043,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,43,light_denim_blue,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+146,690449043,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,43,black_washed_out,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+147,690449043,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,43,white,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+148,690449043,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,43,black_washed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+149,690449043,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,43,dark_denim_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+150,690449043,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,43,black_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+151,690449043,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,43,dark_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+152,690449043,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,43,dark_blue_washed_out,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+153,690449043,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,43,denim_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+154,690449043,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,43,black,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.19,0.02
+155,690449043,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,43,denim_gray,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.19,0.02
+156,690449043,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,43,light_denim_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.19,0.02
+157,690449043,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,43,light_denim_gray_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.19,0.02
+158,690449043,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,43,gray,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.19,0.02
+159,690449043,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,43,light_denim_blue,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.19,0.02
+160,690449043,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,43,light_denim_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.19,0.02
+161,690449043,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,43,denim_blue,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.19,0.02
+162,690449043,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,43,black_washed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.19,0.02
+163,690449043,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,43,light_denim_blue,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.19,0.02
+164,690449043,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,43,black_washed_out,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.19,0.02
+165,690449043,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,43,white,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.19,0.02
+166,690449043,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,43,black_washed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.19,0.02
+167,690449043,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,43,dark_denim_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.19,0.02
+168,690449043,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,43,black_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+169,690449043,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,43,dark_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+170,690449043,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,43,dark_blue_washed_out,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+171,690449043,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,43,denim_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+172,690449043,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,43,black,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+173,690449043,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,43,denim_gray,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+174,690449043,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,43,light_denim_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+175,690449043,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,43,light_denim_gray_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.2,0.02
+176,690449043,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,43,gray,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.2,0.02
+177,690449043,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,43,light_denim_blue,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.2,0.02
+178,690449043,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,43,light_denim_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.2,0.02
+179,690449043,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,43,denim_blue,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.2,0.02
+180,690449043,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,43,black_washed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.2,0.02
+181,690449043,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,43,light_denim_blue,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.2,0.02
+182,690449043,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,43,black_washed_out,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.19,0.02
+183,690449043,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,43,white,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.19,0.02
+184,690449043,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,43,black_washed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.19,0.02
+185,690449043,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,43,dark_denim_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.19,0.02
+186,690449043,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,43,black_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.19,0.02
+187,690449043,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,43,dark_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.19,0.02
+188,690449043,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,43,dark_blue_washed_out,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.19,0.02
+189,690449043,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,43,denim_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+190,690449043,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,43,black,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+191,690449043,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,43,denim_gray,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+192,690449043,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,43,light_denim_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+193,690449043,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,43,light_denim_gray_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+194,690449043,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,43,gray,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+195,690449043,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,43,light_denim_blue,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+196,690449043,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,43,light_denim_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+197,690449043,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,43,denim_blue,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+198,690449043,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,43,black_washed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+199,690449043,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,43,light_denim_blue,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+200,690449043,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,43,black_washed_out,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+201,690449043,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,43,white,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+202,690449043,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,43,black_washed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+203,690449043,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,43,dark_denim_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+204,690449043,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,43,black_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+205,690449043,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,43,dark_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+206,690449043,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,43,dark_blue_washed_out,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+207,690449043,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,43,denim_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+208,690449043,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,43,black,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+209,690449043,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,43,denim_gray,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+210,690449043,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,43,light_denim_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.19,0.02
+211,690449043,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,43,light_denim_gray_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.19,0.02
+212,690449043,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,43,gray,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.19,0.02
+213,690449043,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,43,light_denim_blue,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.19,0.02
+214,690449043,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,43,light_denim_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.19,0.02
+215,690449043,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,43,denim_blue,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.19,0.02
+216,690449043,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,43,black_washed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.19,0.02
+217,690449043,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,43,light_denim_blue,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.19,0.02
+218,690449043,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,43,black_washed_out,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.19,0.02
+219,690449043,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,43,white,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.19,0.02
+220,690449043,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,43,black_washed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.19,0.02
+221,690449043,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,43,dark_denim_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.19,0.02
+222,690449043,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,43,black_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.19,0.02
+223,690449043,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,43,dark_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.19,0.02
+224,690449043,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,43,dark_blue_washed_out,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+225,690449043,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,43,denim_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+226,690449043,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,43,black,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+227,690449043,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,43,denim_gray,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+228,690449043,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,43,light_denim_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+229,690449043,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,43,light_denim_gray_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+230,690449043,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,43,gray,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+231,690449043,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,43,light_denim_blue,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.2,0.02
+232,690449022,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,22,light_denim_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.2,0.02
+233,690449022,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,22,denim_blue,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.2,0.02
+234,690449022,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,22,black_washed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.2,0.02
+235,690449022,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,22,light_denim_blue,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.2,0.02
+236,690449022,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,22,black_washed_out,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.2,0.02
+237,690449022,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,22,white,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.2,0.02
+238,690449022,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,22,black_washed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.19,0.02
+239,690449022,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,22,dark_denim_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.19,0.02
+240,690449022,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,22,black_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.19,0.02
+241,690449022,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,22,dark_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.19,0.02
+242,690449022,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,22,dark_blue_washed_out,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.19,0.02
+243,690449022,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,22,denim_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.19,0.02
+244,690449022,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,22,black,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.19,0.02
+245,690449022,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,22,denim_gray,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+246,690449022,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,22,light_denim_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+247,690449022,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,22,light_denim_gray_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+248,690449022,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,22,gray,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+249,690449022,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,22,light_denim_blue,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+250,690449022,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,22,light_denim_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+251,690449022,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,22,denim_blue,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+252,690449022,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,22,black_washed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+253,690449022,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,22,light_denim_blue,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+254,690449022,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,22,black_washed_out,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+255,690449022,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,22,white,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+256,690449022,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,22,black_washed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+257,690449022,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,22,dark_denim_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+258,690449022,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,22,black_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+259,690449022,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,22,dark_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+260,690449022,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,22,dark_blue_washed_out,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+261,690449022,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,22,denim_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+262,690449022,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,22,black,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+263,690449022,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,22,denim_gray,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+264,690449022,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,22,light_denim_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+265,690449022,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,22,light_denim_gray_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+266,690449022,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,22,gray,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.19,0.02
+267,690449022,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,22,light_denim_blue,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.19,0.02
+268,690449022,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,22,light_denim_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.19,0.02
+269,690449022,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,22,denim_blue,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.19,0.02
+270,690449022,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,22,black_washed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.19,0.02
+271,690449022,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,22,light_denim_blue,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.19,0.02
+272,690449022,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,22,black_washed_out,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.19,0.02
+273,690449022,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,22,white,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.19,0.02
+274,690449022,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,22,black_washed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.19,0.02
+275,690449022,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,22,dark_denim_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.19,0.02
+276,690449022,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,22,black_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.19,0.02
+277,690449022,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,22,dark_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.19,0.02
+278,690449022,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,22,dark_blue_washed_out,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.19,0.02
+279,690449022,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,22,denim_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.19,0.02
+280,690449022,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,22,black,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.2,0.02
+281,690449022,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,22,denim_gray,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.2,0.02
+282,690449022,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,22,light_denim_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.2,0.02
+283,690449022,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,22,light_denim_gray_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.2,0.02
+284,690449022,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,22,gray,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.2,0.02
+285,690449022,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,22,light_denim_blue,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.2,0.02
+286,690449022,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,22,light_denim_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+287,690449022,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,22,denim_blue,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+288,690449022,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,22,black_washed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+289,690449022,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,22,light_denim_blue,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+290,690449022,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,22,black_washed_out,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+291,690449022,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,22,white,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+292,690449022,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,22,black_washed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+293,690449022,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,22,dark_denim_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+294,690449022,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,22,black_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+295,690449022,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,22,dark_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+296,690449022,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,22,dark_blue_washed_out,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+297,690449022,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,22,denim_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+298,690449022,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,22,black,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+299,690449022,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,22,denim_gray,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+300,690449022,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,22,light_denim_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.01
+301,690449022,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,22,light_denim_gray_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.01
+302,690449022,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,22,gray,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.01
+303,690449022,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,22,light_denim_blue,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.01
+304,690449022,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,22,light_denim_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.01
+305,690449022,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,22,denim_blue,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.2,0.01
+306,690449022,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,22,black_washed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.2,0.01
+307,690449022,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,22,light_denim_blue,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.2,0.01
+308,690449022,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,22,black_washed_out,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.2,0.02
+309,690449022,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,22,white,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.2,0.02
+310,690449022,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,22,black_washed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.2,0.02
+311,690449022,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,22,dark_denim_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.2,0.02
+312,690449022,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,22,black_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.19,0.02
+313,690449022,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,22,dark_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.19,0.02
+314,690449022,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,22,dark_blue_washed_out,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.19,0.02
+315,690449022,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,22,denim_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.19,0.02
+316,690449022,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,22,black,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.19,0.02
+317,690449022,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,22,denim_gray,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.19,0.02
+318,690449022,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,22,light_denim_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.19,0.02
+319,690449022,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,22,light_denim_gray_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+320,690449022,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,22,gray,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+321,690449022,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,22,light_denim_blue,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+322,690449056,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,56,light_denim_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+323,690449056,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,56,denim_blue,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+324,690449056,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,56,black_washed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+325,690449056,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,56,light_denim_blue,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+326,690449056,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,56,black_washed_out,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+327,690449056,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,56,white,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+328,690449056,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,56,black_washed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+329,690449056,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,56,dark_denim_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+330,690449056,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,56,black_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+331,690449056,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,56,dark_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+332,690449056,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,56,dark_blue_washed_out,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+333,690449056,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,56,denim_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+334,690449056,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,56,black,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+335,690449056,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,56,denim_gray,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+336,690449056,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,56,light_denim_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+337,690449056,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,56,light_denim_gray_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+338,690449056,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,56,gray,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+339,690449056,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,56,light_denim_blue,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+340,690449056,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,56,light_denim_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.19,0.02
+341,690449056,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,56,denim_blue,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.19,0.02
+342,690449056,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,56,black_washed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.19,0.02
+343,690449056,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,56,light_denim_blue,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.19,0.02
+344,690449056,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,56,black_washed_out,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.19,0.02
+345,690449056,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,56,white,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.19,0.02
+346,690449056,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,56,black_washed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.19,0.02
+347,690449056,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,56,dark_denim_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.19,0.02
+348,690449056,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,56,black_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.19,0.02
+349,690449056,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,56,dark_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.19,0.02
+350,690449056,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,56,dark_blue_washed_out,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.19,0.02
+351,690449056,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,56,denim_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.19,0.02
+352,690449056,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,56,black,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.19,0.02
+353,690449056,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,56,denim_gray,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.19,0.02
+354,690449056,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,56,light_denim_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.06,0.02
+355,690449056,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,56,light_denim_gray_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.06,0.02
+356,690449056,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,56,gray,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.06,0.02
+357,690449056,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,56,light_denim_blue,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.06,0.02
+358,690449056,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,56,light_denim_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.06,0.02
+359,690449056,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,56,denim_blue,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.06,0.02
+360,690449056,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,56,black_washed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.06,0.02
+361,690449056,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,56,light_denim_blue,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.06,0.02
+362,690449056,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,56,black_washed_out,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.06,0.02
+363,690449056,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,56,white,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.06,0.02
+364,690449056,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,56,black_washed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.06,0.02
+365,690449056,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,56,dark_denim_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.06,0.02
+366,690449056,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,56,black_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.06,0.02
+367,690449056,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,56,dark_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.06,0.02
+368,690449056,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,56,dark_blue_washed_out,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.06,0.02
+369,690449056,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,56,denim_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.02
+370,690449056,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,56,black,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.02
+371,690449056,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,56,denim_gray,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.02
+372,690449056,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,56,light_denim_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.02
+373,690449056,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,56,light_denim_gray_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.02
+374,690449056,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,56,gray,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.02
+375,690449056,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,56,light_denim_blue,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.2,0.02
+376,690449056,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,56,light_denim_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.2,0.02
+377,690449056,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,56,denim_blue,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.2,0.02
+378,690449056,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,56,black_washed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.2,0.02
+379,690449056,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,56,light_denim_blue,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.2,0.02
+380,690449056,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,56,black_washed_out,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.2,0.02
+381,690449056,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,56,white,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+382,690449056,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,56,black_washed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+383,690449056,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,56,dark_denim_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+384,690449056,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,56,black_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+385,690449056,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,56,dark_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+386,690449056,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,56,dark_blue_washed_out,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+387,690449056,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,56,denim_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+388,690449056,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,56,black,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+389,690449056,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,56,denim_gray,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+390,690449056,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,56,light_denim_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+391,690449056,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,56,light_denim_gray_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+392,690449056,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,56,gray,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+393,690449056,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,56,light_denim_blue,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.02
+394,690449056,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,56,light_denim_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.02
+395,690449056,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,56,denim_blue,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.02
+396,690449056,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,56,black_washed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.02
+397,690449056,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,56,light_denim_blue,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.02
+398,690449056,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,56,black_washed_out,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.02
+399,690449056,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,56,white,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.2,0.02
+400,690449056,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,56,black_washed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.2,0.02
+401,690449056,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,56,dark_denim_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.2,0.02
+402,690449056,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,56,black_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.2,0.02
+403,690449056,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,56,dark_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.2,0.02
+404,690449056,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,56,dark_blue_washed_out,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.2,0.02
+405,690449056,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,56,denim_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+406,690449056,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,56,black,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+407,690449056,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,56,denim_gray,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+408,690449056,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,56,light_denim_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+409,690449056,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,56,light_denim_gray_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+410,690449056,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,56,gray,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+411,690449056,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,56,light_denim_blue,skinny_fit,"Cotton 98%, Spandex 2%",0.98,0.21,0.02
+412,1004199005,skinny_cropped_jeans,men_jeans_skinny,29.99,2022-01-27 19:43:16,1004199,5,light_denim_blue,skinny_fit,"Cotton 99%, Spandex 1%",0.99,0.21,0.02
+413,1004199005,skinny_cropped_jeans,men_jeans_skinny,29.99,2022-01-27 19:43:16,1004199,5,black,skinny_fit,"Cotton 99%, Spandex 1%",0.99,0.21,0.02
+414,1004199005,skinny_cropped_jeans,men_jeans_skinny,29.99,2022-01-27 19:43:16,1004199,5,denim_blue,skinny_fit,"Cotton 99%, Spandex 1%",0.99,0.21,0.02
+415,1004199005,skinny_cropped_jeans,men_jeans_skinny,29.99,2022-01-27 19:43:16,1004199,5,light_gray,skinny_fit,"Cotton 99%, Spandex 1%",0.99,0.21,0.02
+416,1004199005,skinny_cropped_jeans,men_jeans_skinny,29.99,2022-01-27 19:43:16,1004199,5,light_denim_blue,skinny_fit,"Cotton 99%, Spandex 1%",0.99,0.21,0.02
+417,1004199005,skinny_cropped_jeans,men_jeans_skinny,29.99,2022-01-27 19:43:16,1004199,5,black,skinny_fit,"Cotton 99%, Spandex 1%",0.99,,0.02
+418,1004199005,skinny_cropped_jeans,men_jeans_skinny,29.99,2022-01-27 19:43:16,1004199,5,denim_blue,skinny_fit,"Cotton 99%, Spandex 1%",0.99,,0.02
+419,1004199005,skinny_cropped_jeans,men_jeans_skinny,29.99,2022-01-27 19:43:16,1004199,5,light_gray,skinny_fit,"Cotton 99%, Spandex 1%",0.99,,0.02
+420,690449051,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,51,light_denim_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.02
+421,690449051,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,51,denim_blue,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.02
+422,690449051,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,51,black_washed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.02
+423,690449051,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,51,light_denim_blue,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.02
+424,690449051,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,51,black_washed_out,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.02
+425,690449051,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,51,white,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.02
+426,690449051,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,51,black_washed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.02
+427,690449051,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,51,dark_denim_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.02
+428,690449051,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,51,black_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.02
+429,690449051,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,51,dark_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.02
+430,690449051,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,51,dark_blue_washed_out,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.02
+431,690449051,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,51,denim_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.02
+432,690449051,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,51,black,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.02
+433,690449051,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,51,denim_gray,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.02
+434,690449051,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,51,light_denim_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.02
+435,690449051,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,51,light_denim_gray_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.02
+436,690449051,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,51,gray,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.02
+437,690449051,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,51,light_denim_blue,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.02
+438,690449051,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,51,light_denim_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.02
+439,690449051,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,51,denim_blue,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.02
+440,690449051,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,51,black_washed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.02
+441,690449051,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,51,light_denim_blue,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.02
+442,690449051,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,51,black_washed_out,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.02
+443,690449051,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,51,white,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.02
+444,690449051,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,51,black_washed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.02
+445,690449051,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,51,dark_denim_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.02
+446,690449051,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,51,black_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.02
+447,690449051,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,51,dark_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.02
+448,690449051,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,51,dark_blue_washed_out,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.02
+449,690449051,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,51,denim_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.02
+450,690449051,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,51,black,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.02
+451,690449051,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,51,denim_gray,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.02
+452,690449051,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,51,light_denim_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.02
+453,690449051,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,51,light_denim_gray_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.02
+454,690449051,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,51,gray,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.02
+455,690449051,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,51,light_denim_blue,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.02
+456,690449051,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,51,light_denim_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.02
+457,690449051,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,51,denim_blue,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.02
+458,690449051,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,51,black_washed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.02
+459,690449051,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,51,light_denim_blue,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.02
+460,690449051,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,51,black_washed_out,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.02
+461,690449051,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,51,white,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.02
+462,690449051,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,51,black_washed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.02
+463,690449051,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,51,dark_denim_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.02
+464,690449051,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,51,black_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.02
+465,690449051,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,51,dark_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.02
+466,690449051,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,51,dark_blue_washed_out,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.02
+467,690449051,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,51,denim_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.02
+468,690449051,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,51,black,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.02
+469,690449051,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,51,denim_gray,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.02
+470,690449051,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,51,light_denim_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.02
+471,690449051,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,51,light_denim_gray_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.02
+472,690449051,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,51,gray,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.02
+473,690449051,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,51,light_denim_blue,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.02
+474,690449051,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,51,light_denim_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.02
+475,690449051,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,51,denim_blue,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.02
+476,690449051,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,51,black_washed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.02
+477,690449051,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,51,light_denim_blue,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.02
+478,690449051,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,51,black_washed_out,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.02
+479,690449051,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,51,white,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.02
+480,690449051,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,51,black_washed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.02
+481,690449051,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,51,dark_denim_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.02
+482,690449051,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,51,black_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.02
+483,690449051,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,51,dark_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.02
+484,690449051,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,51,dark_blue_washed_out,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.02
+485,690449051,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,51,denim_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.02
+486,690449051,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,51,black,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.02
+487,690449051,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,51,denim_gray,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.02
+488,690449051,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,51,light_denim_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.01
+489,690449051,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,51,light_denim_gray_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.01
+490,690449051,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,51,gray,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.01
+491,690449051,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,51,light_denim_blue,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.01
+492,690449051,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,51,light_denim_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.01
+493,690449051,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,51,denim_blue,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.01
+494,690449051,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,51,black_washed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.01
+495,690449051,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,51,light_denim_blue,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.01
+496,690449051,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,51,black_washed_out,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.01
+497,690449051,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,51,white,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.01
+498,690449051,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,51,black_washed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.01
+499,690449051,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,51,dark_denim_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.01
+500,690449051,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,51,black_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.01
+501,690449051,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,51,dark_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.01
+502,690449051,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,51,dark_blue_washed_out,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.01
+503,690449051,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,51,denim_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.01
+504,690449051,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,51,black,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.01
+505,690449051,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,51,denim_gray,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.01
+506,690449051,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,51,light_denim_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.01
+507,690449051,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,51,light_denim_gray_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.01
+508,690449051,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,51,gray,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.01
+509,690449051,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,51,light_denim_blue,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.01
+510,690449036,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,36,light_denim_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.01
+511,690449036,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,36,denim_blue,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.01
+512,690449036,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,36,black_washed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.01
+513,690449036,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,36,light_denim_blue,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.01
+514,690449036,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,36,black_washed_out,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.01
+515,690449036,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,36,white,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.01
+516,690449036,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,36,black_washed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.01
+517,690449036,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,36,dark_denim_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.01
+518,690449036,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,36,black_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.01
+519,690449036,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,36,dark_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.01
+520,690449036,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,36,dark_blue_washed_out,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.01
+521,690449036,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,36,denim_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.01
+522,690449036,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,36,black,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.01
+523,690449036,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,36,denim_gray,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.01
+524,690449036,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,36,light_denim_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.01
+525,690449036,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,36,light_denim_gray_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.01
+526,690449036,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,36,gray,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.01
+527,690449036,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,36,light_denim_blue,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.01
+528,690449036,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,36,light_denim_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.01
+529,690449036,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,36,denim_blue,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.01
+530,690449036,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,36,black_washed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.01
+531,690449036,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,36,light_denim_blue,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.01
+532,690449036,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,36,black_washed_out,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.01
+533,690449036,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,36,white,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.01
+534,690449036,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,36,black_washed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.01
+535,690449036,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,36,dark_denim_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.01
+536,690449036,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,36,black_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.01
+537,690449036,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,36,dark_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.01
+538,690449036,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,36,dark_blue_washed_out,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.01
+539,690449036,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,36,denim_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.01
+540,690449036,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,36,black,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.01
+541,690449036,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,36,denim_gray,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.01
+542,690449036,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,36,light_denim_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.01
+543,690449036,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,36,light_denim_gray_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.01
+544,690449036,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,36,gray,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.01
+545,690449036,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,36,light_denim_blue,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.01
+546,690449036,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,36,light_denim_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.01
+547,690449036,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,36,denim_blue,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.01
+548,690449036,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,36,black_washed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.01
+549,690449036,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,36,light_denim_blue,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.01
+550,690449036,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,36,black_washed_out,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.01
+551,690449036,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,36,white,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.01
+552,690449036,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,36,black_washed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.01
+553,690449036,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,36,dark_denim_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.01
+554,690449036,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,36,black_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.01
+555,690449036,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,36,dark_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.01
+556,690449036,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,36,dark_blue_washed_out,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.01
+557,690449036,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,36,denim_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.01
+558,690449036,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,36,black,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.01
+559,690449036,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,36,denim_gray,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.01
+560,690449036,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,36,light_denim_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.01
+561,690449036,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,36,light_denim_gray_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.01
+562,690449036,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,36,gray,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.01
+563,690449036,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,36,light_denim_blue,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.01
+564,690449036,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,36,light_denim_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.01
+565,690449036,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,36,denim_blue,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.01
+566,690449036,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,36,black_washed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,
+567,690449036,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,36,light_denim_blue,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,
+568,690449036,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,36,black_washed_out,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,
+569,690449036,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,36,white,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,
+570,690449036,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,36,black_washed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,
+571,690449036,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,36,dark_denim_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,
+572,690449036,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,36,black_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.02
+573,690449036,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,36,dark_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.02
+574,690449036,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,36,dark_blue_washed_out,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.02
+575,690449036,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,36,denim_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.02
+576,690449036,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,36,black,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.02
+577,690449036,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,36,denim_gray,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.02
+578,690449036,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,36,light_denim_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.02
+579,690449036,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,36,light_denim_gray_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.02
+580,690449036,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,36,gray,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.02
+581,690449036,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,36,light_denim_blue,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.02
+582,690449036,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,36,light_denim_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.02
+583,690449036,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,36,denim_blue,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.02
+584,690449036,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,36,black_washed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.02
+585,690449036,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,36,light_denim_blue,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.02
+586,690449036,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,36,black_washed_out,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.02
+587,690449036,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,36,white,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.02
+588,690449036,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,36,black_washed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.02
+589,690449036,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,36,dark_denim_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.02
+590,690449036,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,36,black_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.02
+591,690449036,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,36,dark_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.02
+592,690449036,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,36,dark_blue_washed_out,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.02
+593,690449036,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,36,denim_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.02
+594,690449036,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,36,black,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.02
+595,690449036,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,36,denim_gray,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.02
+596,690449036,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,36,light_denim_blue_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.02
+597,690449036,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,36,light_denim_gray_trashed,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.02
+598,690449036,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,36,gray,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.02
+599,690449036,skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,690449,36,light_denim_blue,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,0.02
+600,1004199002,skinny_cropped_jeans,men_jeans_skinny,29.99,2022-01-27 19:43:16,1004199,2,light_denim_blue,skinny_fit,"Cotton 99%, Spandex 1%",0.99,,0.02
+601,1004199002,skinny_cropped_jeans,men_jeans_skinny,29.99,2022-01-27 19:43:16,1004199,2,black,skinny_fit,"Cotton 99%, Spandex 1%",0.99,,0.02
+602,1004199002,skinny_cropped_jeans,men_jeans_skinny,29.99,2022-01-27 19:43:16,1004199,2,denim_blue,skinny_fit,"Cotton 99%, Spandex 1%",0.99,,0.02
+603,1004199002,skinny_cropped_jeans,men_jeans_skinny,29.99,2022-01-27 19:43:16,1004199,2,light_gray,skinny_fit,"Cotton 99%, Spandex 1%",0.99,,0.02
+604,1004199002,skinny_cropped_jeans,men_jeans_skinny,29.99,2022-01-27 19:43:16,1004199,2,light_denim_blue,skinny_fit,"Cotton 99%, Spandex 1%",0.99,,0.02
+605,1004199002,skinny_cropped_jeans,men_jeans_skinny,29.99,2022-01-27 19:43:16,1004199,2,black,skinny_fit,"Cotton 99%, Spandex 1%",0.99,,0.02
+606,1004199002,skinny_cropped_jeans,men_jeans_skinny,29.99,2022-01-27 19:43:16,1004199,2,denim_blue,skinny_fit,"Cotton 99%, Spandex 1%",0.99,,
+607,1004199002,skinny_cropped_jeans,men_jeans_skinny,29.99,2022-01-27 19:43:16,1004199,2,light_gray,skinny_fit,"Cotton 99%, Spandex 1%",0.99,,
+608,938875010,slim_tapered_jeans,men_jeans_slim,39.99,2022-01-27 19:43:16,938875,10,light_denim_blue,slim_fit,"Cotton 99%, Spandex 1%",0.99,,
+609,938875010,slim_tapered_jeans,men_jeans_slim,39.99,2022-01-27 19:43:16,938875,10,white,slim_fit,"Cotton 99%, Spandex 1%",0.99,,
+610,938875010,slim_tapered_jeans,men_jeans_slim,39.99,2022-01-27 19:43:16,938875,10,dark_gray,slim_fit,"Cotton 99%, Spandex 1%",0.99,,
+611,938875010,slim_tapered_jeans,men_jeans_slim,39.99,2022-01-27 19:43:16,938875,10,black,slim_fit,"Cotton 99%, Spandex 1%",0.99,,
+612,938875010,slim_tapered_jeans,men_jeans_slim,39.99,2022-01-27 19:43:16,938875,10,denim_blue,slim_fit,"Cotton 99%, Spandex 1%",0.99,,0.02
+613,938875010,slim_tapered_jeans,men_jeans_slim,39.99,2022-01-27 19:43:16,938875,10,light_blue,slim_fit,"Cotton 99%, Spandex 1%",0.99,,0.02
+614,938875010,slim_tapered_jeans,men_jeans_slim,39.99,2022-01-27 19:43:16,938875,10,denim_blue,slim_fit,"Cotton 99%, Spandex 1%",0.99,,0.02
+615,938875010,slim_tapered_jeans,men_jeans_slim,39.99,2022-01-27 19:43:16,938875,10,pale_denim_blue,slim_fit,"Cotton 99%, Spandex 1%",0.99,,0.02
+616,938875010,slim_tapered_jeans,men_jeans_slim,39.99,2022-01-27 19:43:16,938875,10,black,slim_fit,"Cotton 99%, Spandex 1%",0.99,,0.02
+617,938875010,slim_tapered_jeans,men_jeans_slim,39.99,2022-01-27 19:43:16,938875,10,light_denim_blue,slim_fit,"Cotton 99%, Spandex 1%",0.99,,0.02
+618,938875010,slim_tapered_jeans,men_jeans_slim,39.99,2022-01-27 19:43:16,938875,10,white,slim_fit,"Cotton 99%, Spandex 1%",0.99,,0.02
+619,938875010,slim_tapered_jeans,men_jeans_slim,39.99,2022-01-27 19:43:16,938875,10,dark_gray,slim_fit,"Cotton 99%, Spandex 1%",0.99,,0.02
+620,938875010,slim_tapered_jeans,men_jeans_slim,39.99,2022-01-27 19:43:16,938875,10,black,slim_fit,"Cotton 99%, Spandex 1%",0.99,,0.02
+621,938875010,slim_tapered_jeans,men_jeans_slim,39.99,2022-01-27 19:43:16,938875,10,denim_blue,slim_fit,"Cotton 99%, Spandex 1%",0.99,,0.02
+622,938875010,slim_tapered_jeans,men_jeans_slim,39.99,2022-01-27 19:43:16,938875,10,light_blue,slim_fit,"Cotton 99%, Spandex 1%",0.99,,0.02
+623,938875010,slim_tapered_jeans,men_jeans_slim,39.99,2022-01-27 19:43:16,938875,10,denim_blue,slim_fit,"Cotton 99%, Spandex 1%",0.99,,0.02
+624,938875010,slim_tapered_jeans,men_jeans_slim,39.99,2022-01-27 19:43:16,938875,10,pale_denim_blue,slim_fit,"Cotton 99%, Spandex 1%",0.99,,0.02
+625,938875010,slim_tapered_jeans,men_jeans_slim,39.99,2022-01-27 19:43:16,938875,10,black,slim_fit,"Cotton 99%, Spandex 1%",0.99,,0.02
+626,938875007,slim_tapered_jeans,men_jeans_slim,39.99,2022-01-27 19:43:16,938875,7,light_denim_blue,slim_fit,"Cotton 99%, Spandex 1%",0.99,,0.02
+627,938875007,slim_tapered_jeans,men_jeans_slim,39.99,2022-01-27 19:43:16,938875,7,white,slim_fit,"Cotton 99%, Spandex 1%",0.99,,0.02
+628,938875007,slim_tapered_jeans,men_jeans_slim,39.99,2022-01-27 19:43:16,938875,7,dark_gray,slim_fit,"Cotton 99%, Spandex 1%",0.99,,0.02
+629,938875007,slim_tapered_jeans,men_jeans_slim,39.99,2022-01-27 19:43:16,938875,7,black,slim_fit,"Cotton 99%, Spandex 1%",0.99,,0.02
+630,938875007,slim_tapered_jeans,men_jeans_slim,39.99,2022-01-27 19:43:16,938875,7,denim_blue,slim_fit,"Cotton 99%, Spandex 1%",0.99,,0.02
+631,938875007,slim_tapered_jeans,men_jeans_slim,39.99,2022-01-27 19:43:16,938875,7,light_blue,slim_fit,"Cotton 99%, Spandex 1%",0.99,,0.02
+632,938875007,slim_tapered_jeans,men_jeans_slim,39.99,2022-01-27 19:43:16,938875,7,denim_blue,slim_fit,"Cotton 99%, Spandex 1%",0.99,,0.02
+633,938875007,slim_tapered_jeans,men_jeans_slim,39.99,2022-01-27 19:43:16,938875,7,pale_denim_blue,slim_fit,"Cotton 99%, Spandex 1%",0.99,,0.02
+634,938875007,slim_tapered_jeans,men_jeans_slim,39.99,2022-01-27 19:43:16,938875,7,black,slim_fit,"Cotton 99%, Spandex 1%",0.99,,0.02
+635,938875007,slim_tapered_jeans,men_jeans_slim,39.99,2022-01-27 19:43:16,938875,7,light_denim_blue,slim_fit,"Cotton 99%, Spandex 1%",0.99,,0.02
+636,938875007,slim_tapered_jeans,men_jeans_slim,39.99,2022-01-27 19:43:16,938875,7,white,slim_fit,"Cotton 99%, Spandex 1%",0.99,,0.02
+637,938875007,slim_tapered_jeans,men_jeans_slim,39.99,2022-01-27 19:43:16,938875,7,dark_gray,slim_fit,"Cotton 99%, Spandex 1%",0.99,,0.02
+638,938875007,slim_tapered_jeans,men_jeans_slim,39.99,2022-01-27 19:43:16,938875,7,black,slim_fit,"Cotton 99%, Spandex 1%",0.99,,0.02
+639,938875007,slim_tapered_jeans,men_jeans_slim,39.99,2022-01-27 19:43:16,938875,7,denim_blue,slim_fit,"Cotton 99%, Spandex 1%",0.99,,0.02
+640,938875007,slim_tapered_jeans,men_jeans_slim,39.99,2022-01-27 19:43:16,938875,7,light_blue,slim_fit,"Cotton 99%, Spandex 1%",0.99,,0.02
+641,938875007,slim_tapered_jeans,men_jeans_slim,39.99,2022-01-27 19:43:16,938875,7,denim_blue,slim_fit,"Cotton 99%, Spandex 1%",0.99,,0.02
+642,938875007,slim_tapered_jeans,men_jeans_slim,39.99,2022-01-27 19:43:16,938875,7,pale_denim_blue,slim_fit,"Cotton 99%, Spandex 1%",0.99,,
+643,938875007,slim_tapered_jeans,men_jeans_slim,39.99,2022-01-27 19:43:16,938875,7,black,slim_fit,"Cotton 99%, Spandex 1%",0.99,,
+644,1004199001,skinny_cropped_jeans,men_jeans_skinny,29.99,2022-01-27 19:43:16,1004199,1,light_denim_blue,skinny_fit,"Cotton 99%, Spandex 1%",0.99,,
+645,1004199001,skinny_cropped_jeans,men_jeans_skinny,29.99,2022-01-27 19:43:16,1004199,1,black,skinny_fit,"Cotton 99%, Spandex 1%",0.99,,
+646,1004199001,skinny_cropped_jeans,men_jeans_skinny,29.99,2022-01-27 19:43:16,1004199,1,denim_blue,skinny_fit,"Cotton 99%, Spandex 1%",0.99,,
+647,1004199001,skinny_cropped_jeans,men_jeans_skinny,29.99,2022-01-27 19:43:16,1004199,1,light_gray,skinny_fit,"Cotton 99%, Spandex 1%",0.99,,
+648,1004199001,skinny_cropped_jeans,men_jeans_skinny,29.99,2022-01-27 19:43:16,1004199,1,light_denim_blue,skinny_fit,"Cotton 99%, Spandex 1%",0.99,,
+649,1004199001,skinny_cropped_jeans,men_jeans_skinny,29.99,2022-01-27 19:43:16,1004199,1,black,skinny_fit,"Cotton 99%, Spandex 1%",0.99,,
+650,1004199001,skinny_cropped_jeans,men_jeans_skinny,29.99,2022-01-27 19:43:16,1004199,1,denim_blue,skinny_fit,"Cotton 99%, Spandex 1%",0.99,,
+651,1004199001,skinny_cropped_jeans,men_jeans_skinny,29.99,2022-01-27 19:43:16,1004199,1,light_gray,skinny_fit,"Cotton 99%, Spandex 1%",0.99,,
+652,1013317010,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,10,light_denim_blue,regular_fit,"Cotton 78%, Polyester 21%, Spandex 1%",0.78,,
+653,1013317010,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,10,denim_blue,regular_fit,"Cotton 78%, Polyester 21%, Spandex 1%",0.78,,
+654,1013317010,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,10,black,regular_fit,"Cotton 78%, Polyester 21%, Spandex 1%",0.78,,
+655,1013317010,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,10,dark_gray,regular_fit,"Cotton 78%, Polyester 21%, Spandex 1%",0.78,,
+656,1013317010,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,10,black,regular_fit,"Cotton 78%, Polyester 21%, Spandex 1%",0.78,,
+657,1013317010,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,10,dark_blue,regular_fit,"Cotton 78%, Polyester 21%, Spandex 1%",0.78,,
+658,1013317010,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,10,black,regular_fit,"Cotton 78%, Polyester 21%, Spandex 1%",0.78,,
+659,1013317010,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,10,light_denim_blue,regular_fit,"Cotton 79%, Polyester 20%, Spandex 1%",0.79,,
+660,1013317010,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,10,denim_blue,regular_fit,"Cotton 79%, Polyester 20%, Spandex 1%",0.79,,
+661,1013317010,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,10,black,regular_fit,"Cotton 79%, Polyester 20%, Spandex 1%",0.79,,
+662,1013317010,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,10,dark_gray,regular_fit,"Cotton 79%, Polyester 20%, Spandex 1%",0.79,,
+663,1013317010,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,10,black,regular_fit,"Cotton 79%, Polyester 20%, Spandex 1%",0.79,,
+664,1013317010,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,10,dark_blue,regular_fit,"Cotton 79%, Polyester 20%, Spandex 1%",0.79,,
+665,1013317010,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,10,black,regular_fit,"Cotton 79%, Polyester 20%, Spandex 1%",0.79,,
+666,1013317010,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,10,light_denim_blue,regular_fit,"Cotton 80%, Polyester 19%, Spandex 1%",0.8,,
+667,1013317010,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,10,denim_blue,regular_fit,"Cotton 80%, Polyester 19%, Spandex 1%",0.8,,
+668,1013317010,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,10,black,regular_fit,"Cotton 80%, Polyester 19%, Spandex 1%",0.8,,
+669,1013317010,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,10,dark_gray,regular_fit,"Cotton 80%, Polyester 19%, Spandex 1%",0.8,,
+670,1013317010,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,10,black,regular_fit,"Cotton 80%, Polyester 19%, Spandex 1%",0.8,,
+671,1013317010,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,10,dark_blue,regular_fit,"Cotton 80%, Polyester 19%, Spandex 1%",0.8,,
+672,1013317010,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,10,black,regular_fit,"Cotton 80%, Polyester 19%, Spandex 1%",0.8,,
+673,1013317010,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,10,light_denim_blue,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+674,1013317010,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,10,light_denim_blue,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+675,1013317010,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,10,denim_blue,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+676,1013317010,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,10,denim_blue,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+677,1013317010,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,10,black,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+678,1013317010,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,10,black,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+679,1013317010,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,10,dark_gray,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+680,1013317010,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,10,dark_gray,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+681,1013317010,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,10,black,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+682,1013317010,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,10,black,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+683,1013317010,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,10,dark_blue,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+684,1013317010,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,10,dark_blue,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+685,1013317010,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,10,black,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+686,1013317010,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,10,black,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+687,1013317010,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,10,light_denim_blue,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+688,1013317010,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,10,denim_blue,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+689,1013317010,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,10,black,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+690,1013317010,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,10,dark_gray,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+691,1013317010,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,10,black,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+692,1013317010,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,10,dark_blue,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+693,1013317010,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,10,black,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+694,1013317010,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,10,light_denim_blue,regular_fit,"Cotton 79%, Polyester 19%, Spandex 2%",0.79,,
+695,1013317010,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,10,light_denim_blue,regular_fit,"Cotton 79%, Polyester 19%, Spandex 2%",0.79,,
+696,1013317010,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,10,denim_blue,regular_fit,"Cotton 79%, Polyester 19%, Spandex 2%",0.79,,
+697,1013317010,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,10,denim_blue,regular_fit,"Cotton 79%, Polyester 19%, Spandex 2%",0.79,,
+698,1013317010,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,10,black,regular_fit,"Cotton 79%, Polyester 19%, Spandex 2%",0.79,,
+699,1013317010,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,10,black,regular_fit,"Cotton 79%, Polyester 19%, Spandex 2%",0.79,,
+700,1013317010,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,10,dark_gray,regular_fit,"Cotton 79%, Polyester 19%, Spandex 2%",0.79,,
+701,1013317010,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,10,dark_gray,regular_fit,"Cotton 79%, Polyester 19%, Spandex 2%",0.79,,
+702,1013317010,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,10,black,regular_fit,"Cotton 79%, Polyester 19%, Spandex 2%",0.79,,
+703,1013317010,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,10,black,regular_fit,"Cotton 79%, Polyester 19%, Spandex 2%",0.79,,
+704,1013317010,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,10,dark_blue,regular_fit,"Cotton 79%, Polyester 19%, Spandex 2%",0.79,,
+705,1013317010,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,10,dark_blue,regular_fit,"Cotton 79%, Polyester 19%, Spandex 2%",0.79,,
+706,1013317010,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,10,black,regular_fit,"Cotton 79%, Polyester 19%, Spandex 2%",0.79,,
+707,1013317010,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,10,black,regular_fit,"Cotton 79%, Polyester 19%, Spandex 2%",0.79,,
+708,1013317001,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,1,light_denim_blue,regular_fit,"Cotton 78%, Polyester 21%, Spandex 1%",0.78,,
+709,1013317001,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,1,denim_blue,regular_fit,"Cotton 78%, Polyester 21%, Spandex 1%",0.78,,
+710,1013317001,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,1,black,regular_fit,"Cotton 78%, Polyester 21%, Spandex 1%",0.78,,
+711,1013317001,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,1,dark_gray,regular_fit,"Cotton 78%, Polyester 21%, Spandex 1%",0.78,,
+712,1013317001,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,1,black,regular_fit,"Cotton 78%, Polyester 21%, Spandex 1%",0.78,,
+713,1013317001,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,1,dark_blue,regular_fit,"Cotton 78%, Polyester 21%, Spandex 1%",0.78,,
+714,1013317001,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,1,black,regular_fit,"Cotton 78%, Polyester 21%, Spandex 1%",0.78,,
+715,1013317001,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,1,light_denim_blue,regular_fit,"Cotton 79%, Polyester 20%, Spandex 1%",0.79,,
+716,1013317001,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,1,denim_blue,regular_fit,"Cotton 79%, Polyester 20%, Spandex 1%",0.79,,
+717,1013317001,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,1,black,regular_fit,"Cotton 79%, Polyester 20%, Spandex 1%",0.79,,
+718,1013317001,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,1,dark_gray,regular_fit,"Cotton 79%, Polyester 20%, Spandex 1%",0.79,,
+719,1013317001,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,1,black,regular_fit,"Cotton 79%, Polyester 20%, Spandex 1%",0.79,,
+720,1013317001,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,1,dark_blue,regular_fit,"Cotton 79%, Polyester 20%, Spandex 1%",0.79,,
+721,1013317001,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,1,black,regular_fit,"Cotton 79%, Polyester 20%, Spandex 1%",0.79,,
+722,1013317001,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,1,light_denim_blue,regular_fit,"Cotton 80%, Polyester 19%, Spandex 1%",0.8,,
+723,1013317001,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,1,denim_blue,regular_fit,"Cotton 80%, Polyester 19%, Spandex 1%",0.8,,
+724,1013317001,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,1,black,regular_fit,"Cotton 80%, Polyester 19%, Spandex 1%",0.8,,
+725,1013317001,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,1,dark_gray,regular_fit,"Cotton 80%, Polyester 19%, Spandex 1%",0.8,,
+726,1013317001,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,1,black,regular_fit,"Cotton 80%, Polyester 19%, Spandex 1%",0.8,,
+727,1013317001,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,1,dark_blue,regular_fit,"Cotton 80%, Polyester 19%, Spandex 1%",0.8,,
+728,1013317001,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,1,black,regular_fit,"Cotton 80%, Polyester 19%, Spandex 1%",0.8,,
+729,1013317001,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,1,light_denim_blue,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+730,1013317001,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,1,light_denim_blue,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+731,1013317001,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,1,denim_blue,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+732,1013317001,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,1,denim_blue,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+733,1013317001,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,1,black,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+734,1013317001,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,1,black,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+735,1013317001,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,1,dark_gray,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+736,1013317001,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,1,dark_gray,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+737,1013317001,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,1,black,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+738,1013317001,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,1,black,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+739,1013317001,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,1,dark_blue,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+740,1013317001,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,1,dark_blue,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+741,1013317001,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,1,black,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+742,1013317001,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,1,black,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+743,1013317001,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,1,light_denim_blue,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+744,1013317001,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,1,denim_blue,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+745,1013317001,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,1,black,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+746,1013317001,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,1,dark_gray,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+747,1013317001,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,1,black,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+748,1013317001,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,1,dark_blue,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+749,1013317001,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,1,black,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+750,1013317001,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,1,light_denim_blue,regular_fit,"Cotton 79%, Polyester 19%, Spandex 2%",0.79,,
+751,1013317001,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,1,light_denim_blue,regular_fit,"Cotton 79%, Polyester 19%, Spandex 2%",0.79,,
+752,1013317001,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,1,denim_blue,regular_fit,"Cotton 79%, Polyester 19%, Spandex 2%",0.79,,
+753,1013317001,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,1,denim_blue,regular_fit,"Cotton 79%, Polyester 19%, Spandex 2%",0.79,,
+754,1013317001,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,1,black,regular_fit,"Cotton 79%, Polyester 19%, Spandex 2%",0.79,,
+755,1013317001,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,1,black,regular_fit,"Cotton 79%, Polyester 19%, Spandex 2%",0.79,,
+756,1013317001,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,1,dark_gray,regular_fit,"Cotton 79%, Polyester 19%, Spandex 2%",0.79,,
+757,1013317001,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,1,dark_gray,regular_fit,"Cotton 79%, Polyester 19%, Spandex 2%",0.79,,
+758,1013317001,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,1,black,regular_fit,"Cotton 79%, Polyester 19%, Spandex 2%",0.79,,
+759,1013317001,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,1,black,regular_fit,"Cotton 79%, Polyester 19%, Spandex 2%",0.79,,
+760,1013317001,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,1,dark_blue,regular_fit,"Cotton 79%, Polyester 19%, Spandex 2%",0.79,,
+761,1013317001,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,1,dark_blue,regular_fit,"Cotton 79%, Polyester 19%, Spandex 2%",0.79,,
+762,1013317001,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,1,black,regular_fit,"Cotton 79%, Polyester 19%, Spandex 2%",0.79,,
+763,1013317001,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,1,black,regular_fit,"Cotton 79%, Polyester 19%, Spandex 2%",0.79,,
+764,1004199003,skinny_cropped_jeans,men_jeans_skinny,29.99,2022-01-27 19:43:16,1004199,3,light_denim_blue,skinny_fit,"Cotton 99%, Spandex 1%",0.99,,
+765,1004199003,skinny_cropped_jeans,men_jeans_skinny,29.99,2022-01-27 19:43:16,1004199,3,black,skinny_fit,"Cotton 99%, Spandex 1%",0.99,,
+766,1004199003,skinny_cropped_jeans,men_jeans_skinny,29.99,2022-01-27 19:43:16,1004199,3,denim_blue,skinny_fit,"Cotton 99%, Spandex 1%",0.99,,
+767,1004199003,skinny_cropped_jeans,men_jeans_skinny,29.99,2022-01-27 19:43:16,1004199,3,light_gray,skinny_fit,"Cotton 99%, Spandex 1%",0.99,,
+768,1004199003,skinny_cropped_jeans,men_jeans_skinny,29.99,2022-01-27 19:43:16,1004199,3,light_denim_blue,skinny_fit,"Cotton 99%, Spandex 1%",0.99,,
+769,1004199003,skinny_cropped_jeans,men_jeans_skinny,29.99,2022-01-27 19:43:16,1004199,3,black,skinny_fit,"Cotton 99%, Spandex 1%",0.99,,
+770,1004199003,skinny_cropped_jeans,men_jeans_skinny,29.99,2022-01-27 19:43:16,1004199,3,denim_blue,skinny_fit,"Cotton 99%, Spandex 1%",0.99,,
+771,1004199003,skinny_cropped_jeans,men_jeans_skinny,29.99,2022-01-27 19:43:16,1004199,3,light_gray,skinny_fit,"Cotton 99%, Spandex 1%",0.99,,
+772,938875014,slim_tapered_jeans,men_jeans_slim,39.99,2022-01-27 19:43:16,938875,14,light_denim_blue,slim_fit,"Cotton 99%, Spandex 1%",0.99,,
+773,938875014,slim_tapered_jeans,men_jeans_slim,39.99,2022-01-27 19:43:16,938875,14,white,slim_fit,"Cotton 99%, Spandex 1%",0.99,,
+774,938875014,slim_tapered_jeans,men_jeans_slim,39.99,2022-01-27 19:43:16,938875,14,dark_gray,slim_fit,"Cotton 99%, Spandex 1%",0.99,,
+775,938875014,slim_tapered_jeans,men_jeans_slim,39.99,2022-01-27 19:43:16,938875,14,black,slim_fit,"Cotton 99%, Spandex 1%",0.99,,
+776,938875014,slim_tapered_jeans,men_jeans_slim,39.99,2022-01-27 19:43:16,938875,14,denim_blue,slim_fit,"Cotton 99%, Spandex 1%",0.99,,
+777,938875014,slim_tapered_jeans,men_jeans_slim,39.99,2022-01-27 19:43:16,938875,14,light_blue,slim_fit,"Cotton 99%, Spandex 1%",0.99,,
+778,938875014,slim_tapered_jeans,men_jeans_slim,39.99,2022-01-27 19:43:16,938875,14,denim_blue,slim_fit,"Cotton 99%, Spandex 1%",0.99,,
+779,938875014,slim_tapered_jeans,men_jeans_slim,39.99,2022-01-27 19:43:16,938875,14,pale_denim_blue,slim_fit,"Cotton 99%, Spandex 1%",0.99,,
+780,938875014,slim_tapered_jeans,men_jeans_slim,39.99,2022-01-27 19:43:16,938875,14,black,slim_fit,"Cotton 99%, Spandex 1%",0.99,,
+781,938875014,slim_tapered_jeans,men_jeans_slim,39.99,2022-01-27 19:43:16,938875,14,light_denim_blue,slim_fit,"Cotton 99%, Spandex 1%",0.99,,
+782,938875014,slim_tapered_jeans,men_jeans_slim,39.99,2022-01-27 19:43:16,938875,14,white,slim_fit,"Cotton 99%, Spandex 1%",0.99,,
+783,938875014,slim_tapered_jeans,men_jeans_slim,39.99,2022-01-27 19:43:16,938875,14,dark_gray,slim_fit,"Cotton 99%, Spandex 1%",0.99,,
+784,938875014,slim_tapered_jeans,men_jeans_slim,39.99,2022-01-27 19:43:16,938875,14,black,slim_fit,"Cotton 99%, Spandex 1%",0.99,,
+785,938875014,slim_tapered_jeans,men_jeans_slim,39.99,2022-01-27 19:43:16,938875,14,denim_blue,slim_fit,"Cotton 99%, Spandex 1%",0.99,,
+786,938875014,slim_tapered_jeans,men_jeans_slim,39.99,2022-01-27 19:43:16,938875,14,light_blue,slim_fit,"Cotton 99%, Spandex 1%",0.99,,
+787,938875014,slim_tapered_jeans,men_jeans_slim,39.99,2022-01-27 19:43:16,938875,14,denim_blue,slim_fit,"Cotton 99%, Spandex 1%",0.99,,
+788,938875014,slim_tapered_jeans,men_jeans_slim,39.99,2022-01-27 19:43:16,938875,14,pale_denim_blue,slim_fit,"Cotton 99%, Spandex 1%",0.99,,
+789,938875014,slim_tapered_jeans,men_jeans_slim,39.99,2022-01-27 19:43:16,938875,14,black,slim_fit,"Cotton 99%, Spandex 1%",0.99,,
+790,1013317008,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,8,light_denim_blue,regular_fit,"Cotton 78%, Polyester 21%, Spandex 1%",0.78,,
+791,1013317008,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,8,denim_blue,regular_fit,"Cotton 78%, Polyester 21%, Spandex 1%",0.78,,
+792,1013317008,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,8,black,regular_fit,"Cotton 78%, Polyester 21%, Spandex 1%",0.78,,
+793,1013317008,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,8,dark_gray,regular_fit,"Cotton 78%, Polyester 21%, Spandex 1%",0.78,,
+794,1013317008,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,8,black,regular_fit,"Cotton 78%, Polyester 21%, Spandex 1%",0.78,,
+795,1013317008,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,8,dark_blue,regular_fit,"Cotton 78%, Polyester 21%, Spandex 1%",0.78,,
+796,1013317008,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,8,black,regular_fit,"Cotton 78%, Polyester 21%, Spandex 1%",0.78,,
+797,1013317008,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,8,light_denim_blue,regular_fit,"Cotton 79%, Polyester 20%, Spandex 1%",0.79,,
+798,1013317008,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,8,denim_blue,regular_fit,"Cotton 79%, Polyester 20%, Spandex 1%",0.79,,
+799,1013317008,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,8,black,regular_fit,"Cotton 79%, Polyester 20%, Spandex 1%",0.79,,
+800,1013317008,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,8,dark_gray,regular_fit,"Cotton 79%, Polyester 20%, Spandex 1%",0.79,,
+801,1013317008,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,8,black,regular_fit,"Cotton 79%, Polyester 20%, Spandex 1%",0.79,,
+802,1013317008,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,8,dark_blue,regular_fit,"Cotton 79%, Polyester 20%, Spandex 1%",0.79,,
+803,1013317008,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,8,black,regular_fit,"Cotton 79%, Polyester 20%, Spandex 1%",0.79,,
+804,1013317008,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,8,light_denim_blue,regular_fit,"Cotton 80%, Polyester 19%, Spandex 1%",0.8,,
+805,1013317008,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,8,denim_blue,regular_fit,"Cotton 80%, Polyester 19%, Spandex 1%",0.8,,
+806,1013317008,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,8,black,regular_fit,"Cotton 80%, Polyester 19%, Spandex 1%",0.8,,
+807,1013317008,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,8,dark_gray,regular_fit,"Cotton 80%, Polyester 19%, Spandex 1%",0.8,,
+808,1013317008,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,8,black,regular_fit,"Cotton 80%, Polyester 19%, Spandex 1%",0.8,,
+809,1013317008,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,8,dark_blue,regular_fit,"Cotton 80%, Polyester 19%, Spandex 1%",0.8,,
+810,1013317008,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,8,black,regular_fit,"Cotton 80%, Polyester 19%, Spandex 1%",0.8,,
+811,1013317008,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,8,light_denim_blue,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+812,1013317008,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,8,light_denim_blue,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+813,1013317008,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,8,denim_blue,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+814,1013317008,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,8,denim_blue,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+815,1013317008,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,8,black,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+816,1013317008,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,8,black,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+817,1013317008,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,8,dark_gray,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+818,1013317008,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,8,dark_gray,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+819,1013317008,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,8,black,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+820,1013317008,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,8,black,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+821,1013317008,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,8,dark_blue,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+822,1013317008,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,8,dark_blue,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+823,1013317008,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,8,black,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+824,1013317008,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,8,black,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+825,1013317008,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,8,light_denim_blue,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+826,1013317008,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,8,denim_blue,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+827,1013317008,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,8,black,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+828,1013317008,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,8,dark_gray,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+829,1013317008,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,8,black,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+830,1013317008,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,8,dark_blue,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+831,1013317008,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,8,black,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+832,1013317008,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,8,light_denim_blue,regular_fit,"Cotton 79%, Polyester 19%, Spandex 2%",0.79,,
+833,1013317008,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,8,light_denim_blue,regular_fit,"Cotton 79%, Polyester 19%, Spandex 2%",0.79,,
+834,1013317008,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,8,denim_blue,regular_fit,"Cotton 79%, Polyester 19%, Spandex 2%",0.79,,
+835,1013317008,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,8,denim_blue,regular_fit,"Cotton 79%, Polyester 19%, Spandex 2%",0.79,,
+836,1013317008,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,8,black,regular_fit,"Cotton 79%, Polyester 19%, Spandex 2%",0.79,,
+837,1013317008,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,8,black,regular_fit,"Cotton 79%, Polyester 19%, Spandex 2%",0.79,,
+838,1013317008,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,8,dark_gray,regular_fit,"Cotton 79%, Polyester 19%, Spandex 2%",0.79,,
+839,1013317008,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,8,dark_gray,regular_fit,"Cotton 79%, Polyester 19%, Spandex 2%",0.79,,
+840,1013317008,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,8,black,regular_fit,"Cotton 79%, Polyester 19%, Spandex 2%",0.79,,
+841,1013317008,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,8,black,regular_fit,"Cotton 79%, Polyester 19%, Spandex 2%",0.79,,
+842,1013317008,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,8,dark_blue,regular_fit,"Cotton 79%, Polyester 19%, Spandex 2%",0.79,,
+843,1013317008,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,8,dark_blue,regular_fit,"Cotton 79%, Polyester 19%, Spandex 2%",0.79,,
+844,1013317008,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,8,black,regular_fit,"Cotton 79%, Polyester 19%, Spandex 2%",0.79,,
+845,1013317008,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,8,black,regular_fit,"Cotton 79%, Polyester 19%, Spandex 2%",0.79,,
+846,993887004,hybrid_regular_denim_joggers,men_jeans_regular,44.99,2022-01-27 19:43:16,993887,4,denim_blue,regular_fit,"Cotton 79%, Polyester 20%, Spandex 1%",0.79,,
+847,993887004,hybrid_regular_denim_joggers,men_jeans_regular,44.99,2022-01-27 19:43:16,993887,4,denim_blue,regular_fit,"Cotton 79%, Polyester 20%, Spandex 1%",0.79,,
+848,993887004,hybrid_regular_denim_joggers,men_jeans_regular,44.99,2022-01-27 19:43:16,993887,4,denim_blue,regular_fit,"Cotton 79%, Polyester 20%, Spandex 1%",0.79,,
+849,993887004,hybrid_regular_denim_joggers,men_jeans_regular,44.99,2022-01-27 19:43:16,993887,4,denim_blue,regular_fit,"Cotton 79%, Polyester 20%, Spandex 1%",0.79,,
+850,993887004,hybrid_regular_denim_joggers,men_jeans_regular,44.99,2022-01-27 19:43:16,993887,4,black,regular_fit,"Cotton 79%, Polyester 20%, Spandex 1%",0.79,,
+851,993887004,hybrid_regular_denim_joggers,men_jeans_regular,44.99,2022-01-27 19:43:16,993887,4,black,regular_fit,"Cotton 79%, Polyester 20%, Spandex 1%",0.79,,
+852,993887004,hybrid_regular_denim_joggers,men_jeans_regular,44.99,2022-01-27 19:43:16,993887,4,denim_blue,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+853,993887004,hybrid_regular_denim_joggers,men_jeans_regular,44.99,2022-01-27 19:43:16,993887,4,denim_blue,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+854,993887004,hybrid_regular_denim_joggers,men_jeans_regular,44.99,2022-01-27 19:43:16,993887,4,denim_blue,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+855,993887004,hybrid_regular_denim_joggers,men_jeans_regular,44.99,2022-01-27 19:43:16,993887,4,denim_blue,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+856,993887004,hybrid_regular_denim_joggers,men_jeans_regular,44.99,2022-01-27 19:43:16,993887,4,black,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+857,993887004,hybrid_regular_denim_joggers,men_jeans_regular,44.99,2022-01-27 19:43:16,993887,4,black,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+858,993887004,hybrid_regular_denim_joggers,men_jeans_regular,44.99,2022-01-27 19:43:16,993887,4,denim_blue,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+859,993887004,hybrid_regular_denim_joggers,men_jeans_regular,44.99,2022-01-27 19:43:16,993887,4,denim_blue,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+860,993887004,hybrid_regular_denim_joggers,men_jeans_regular,44.99,2022-01-27 19:43:16,993887,4,denim_blue,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+861,993887004,hybrid_regular_denim_joggers,men_jeans_regular,44.99,2022-01-27 19:43:16,993887,4,denim_blue,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+862,993887004,hybrid_regular_denim_joggers,men_jeans_regular,44.99,2022-01-27 19:43:16,993887,4,black,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+863,993887004,hybrid_regular_denim_joggers,men_jeans_regular,44.99,2022-01-27 19:43:16,993887,4,black,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+864,1013317005,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,5,light_denim_blue,regular_fit,"Cotton 78%, Polyester 21%, Spandex 1%",0.78,,
+865,1013317005,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,5,denim_blue,regular_fit,"Cotton 78%, Polyester 21%, Spandex 1%",0.78,,
+866,1013317005,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,5,black,regular_fit,"Cotton 78%, Polyester 21%, Spandex 1%",0.78,,
+867,1013317005,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,5,dark_gray,regular_fit,"Cotton 78%, Polyester 21%, Spandex 1%",0.78,,
+868,1013317005,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,5,black,regular_fit,"Cotton 78%, Polyester 21%, Spandex 1%",0.78,,
+869,1013317005,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,5,dark_blue,regular_fit,"Cotton 78%, Polyester 21%, Spandex 1%",0.78,,
+870,1013317005,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,5,black,regular_fit,"Cotton 78%, Polyester 21%, Spandex 1%",0.78,,
+871,1013317005,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,5,light_denim_blue,regular_fit,"Cotton 79%, Polyester 20%, Spandex 1%",0.79,,
+872,1013317005,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,5,denim_blue,regular_fit,"Cotton 79%, Polyester 20%, Spandex 1%",0.79,,
+873,1013317005,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,5,black,regular_fit,"Cotton 79%, Polyester 20%, Spandex 1%",0.79,,
+874,1013317005,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,5,dark_gray,regular_fit,"Cotton 79%, Polyester 20%, Spandex 1%",0.79,,
+875,1013317005,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,5,black,regular_fit,"Cotton 79%, Polyester 20%, Spandex 1%",0.79,,
+876,1013317005,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,5,dark_blue,regular_fit,"Cotton 79%, Polyester 20%, Spandex 1%",0.79,,
+877,1013317005,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,5,black,regular_fit,"Cotton 79%, Polyester 20%, Spandex 1%",0.79,,
+878,1013317005,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,5,light_denim_blue,regular_fit,"Cotton 80%, Polyester 19%, Spandex 1%",0.8,,
+879,1013317005,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,5,denim_blue,regular_fit,"Cotton 80%, Polyester 19%, Spandex 1%",0.8,,
+880,1013317005,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,5,black,regular_fit,"Cotton 80%, Polyester 19%, Spandex 1%",0.8,,
+881,1013317005,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,5,dark_gray,regular_fit,"Cotton 80%, Polyester 19%, Spandex 1%",0.8,,
+882,1013317005,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,5,black,regular_fit,"Cotton 80%, Polyester 19%, Spandex 1%",0.8,,
+883,1013317005,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,5,dark_blue,regular_fit,"Cotton 80%, Polyester 19%, Spandex 1%",0.8,,
+884,1013317005,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,5,black,regular_fit,"Cotton 80%, Polyester 19%, Spandex 1%",0.8,,
+885,1013317005,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,5,light_denim_blue,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+886,1013317005,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,5,light_denim_blue,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+887,1013317005,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,5,denim_blue,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+888,1013317005,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,5,denim_blue,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+889,1013317005,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,5,black,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+890,1013317005,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,5,black,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+891,1013317005,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,5,dark_gray,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+892,1013317005,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,5,dark_gray,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+893,1013317005,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,5,black,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+894,1013317005,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,5,black,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+895,1013317005,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,5,dark_blue,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+896,1013317005,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,5,dark_blue,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+897,1013317005,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,5,black,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+898,1013317005,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,5,black,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+899,1013317005,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,5,light_denim_blue,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+900,1013317005,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,5,denim_blue,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+901,1013317005,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,5,black,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+902,1013317005,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,5,dark_gray,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+903,1013317005,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,5,black,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+904,1013317005,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,5,dark_blue,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+905,1013317005,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,5,black,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+906,1013317005,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,5,light_denim_blue,regular_fit,"Cotton 79%, Polyester 19%, Spandex 2%",0.79,,
+907,1013317005,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,5,light_denim_blue,regular_fit,"Cotton 79%, Polyester 19%, Spandex 2%",0.79,,
+908,1013317005,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,5,denim_blue,regular_fit,"Cotton 79%, Polyester 19%, Spandex 2%",0.79,,
+909,1013317005,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,5,denim_blue,regular_fit,"Cotton 79%, Polyester 19%, Spandex 2%",0.79,,
+910,1013317005,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,5,black,regular_fit,"Cotton 79%, Polyester 19%, Spandex 2%",0.79,,
+911,1013317005,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,5,black,regular_fit,"Cotton 79%, Polyester 19%, Spandex 2%",0.79,,
+912,1013317005,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,5,dark_gray,regular_fit,"Cotton 79%, Polyester 19%, Spandex 2%",0.79,,
+913,1013317005,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,5,dark_gray,regular_fit,"Cotton 79%, Polyester 19%, Spandex 2%",0.79,,
+914,1013317005,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,5,black,regular_fit,"Cotton 79%, Polyester 19%, Spandex 2%",0.79,,
+915,1013317005,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,5,black,regular_fit,"Cotton 79%, Polyester 19%, Spandex 2%",0.79,,
+916,1013317005,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,5,dark_blue,regular_fit,"Cotton 79%, Polyester 19%, Spandex 2%",0.79,,
+917,1013317005,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,5,dark_blue,regular_fit,"Cotton 79%, Polyester 19%, Spandex 2%",0.79,,
+918,1013317005,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,5,black,regular_fit,"Cotton 79%, Polyester 19%, Spandex 2%",0.79,,
+919,1013317005,hybrid_regular_tapered_joggers,men_jeans_regular,39.99,2022-01-27 19:43:16,1013317,5,black,regular_fit,"Cotton 79%, Polyester 19%, Spandex 2%",0.79,,
+920,427159006,trashed_skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,427159,6,black_denim,skinny_fit,"Cotton 93%, Polyester 6%, Spandex 1%",0.93,,
+921,427159006,trashed_skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,427159,6,blue_washed_out,skinny_fit,"Cotton 93%, Polyester 6%, Spandex 1%",0.93,,
+922,427159006,trashed_skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,427159,6,denim_blue,skinny_fit,"Cotton 93%, Polyester 6%, Spandex 1%",0.93,,
+923,427159006,trashed_skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,427159,6,light_denim_blue,skinny_fit,"Cotton 93%, Polyester 6%, Spandex 1%",0.93,,
+924,427159006,trashed_skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,427159,6,dark_denim_blue,skinny_fit,"Cotton 93%, Polyester 6%, Spandex 1%",0.93,,
+925,427159006,trashed_skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,427159,6,light_denim_blue,skinny_fit,"Cotton 93%, Polyester 6%, Spandex 1%",0.93,,
+926,427159006,trashed_skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,427159,6,black_washed_out,skinny_fit,"Cotton 93%, Polyester 6%, Spandex 1%",0.93,,
+927,427159006,trashed_skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,427159,6,denim_blue,skinny_fit,"Cotton 93%, Polyester 6%, Spandex 1%",0.93,,
+928,427159006,trashed_skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,427159,6,white_denim,skinny_fit,"Cotton 93%, Polyester 6%, Spandex 1%",0.93,,
+929,427159006,trashed_skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,427159,6,light_blue_washed_out,skinny_fit,"Cotton 93%, Polyester 6%, Spandex 1%",0.93,,
+930,427159006,trashed_skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,427159,6,super_light_denim_blue,skinny_fit,"Cotton 93%, Polyester 6%, Spandex 1%",0.93,,
+931,427159006,trashed_skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,427159,6,black_trashed,skinny_fit,"Cotton 93%, Polyester 6%, Spandex 1%",0.93,,
+932,427159006,trashed_skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,427159,6,light_denim_blue,skinny_fit,"Cotton 93%, Polyester 6%, Spandex 1%",0.93,,
+933,427159006,trashed_skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,427159,6,denim_blue_bleached,skinny_fit,"Cotton 93%, Polyester 6%, Spandex 1%",0.93,,
+934,427159006,trashed_skinny_jeans,men_jeans_ripped,39.99,2022-01-27 19:43:16,427159,6,black_bleached,skinny_fit,"Cotton 93%, Polyester 6%, Spandex 1%",0.93,,
+935,974202003,regular_denim_joggers,men_jeans_loose,29.99,2022-01-27 19:43:16,974202,3,light_denim_blue,regular_fit,Cotton 100%,1.0,,
+936,974202003,regular_denim_joggers,men_jeans_loose,29.99,2022-01-27 19:43:16,974202,3,denim_blue,regular_fit,Cotton 100%,1.0,,
+937,974202003,regular_denim_joggers,men_jeans_loose,29.99,2022-01-27 19:43:16,974202,3,black,regular_fit,Cotton 100%,1.0,,
+938,974202003,regular_denim_joggers,men_jeans_loose,29.99,2022-01-27 19:43:16,974202,3,light_denim_blue,regular_fit,Cotton 100%,1.0,,
+939,974202003,regular_denim_joggers,men_jeans_loose,29.99,2022-01-27 19:43:16,974202,3,denim_blue,regular_fit,Cotton 100%,1.0,,
+940,974202003,regular_denim_joggers,men_jeans_loose,29.99,2022-01-27 19:43:16,974202,3,black,regular_fit,Cotton 100%,1.0,,
+941,751994024,slim_jeans,men_jeans_slim,29.99,2022-01-27 19:43:16,751994,24,dark_gray,slim_fit,"Cotton 98%, Spandex 2%",0.98,,
+942,751994024,slim_jeans,men_jeans_slim,29.99,2022-01-27 19:43:16,751994,24,light_denim_blue,slim_fit,"Cotton 98%, Spandex 2%",0.98,,
+943,751994024,slim_jeans,men_jeans_slim,29.99,2022-01-27 19:43:16,751994,24,dark_denim_blue,slim_fit,"Cotton 98%, Spandex 2%",0.98,,
+944,751994024,slim_jeans,men_jeans_slim,29.99,2022-01-27 19:43:16,751994,24,dark_blue,slim_fit,"Cotton 98%, Spandex 2%",0.98,,
+945,751994024,slim_jeans,men_jeans_slim,29.99,2022-01-27 19:43:16,751994,24,denim_blue,slim_fit,"Cotton 98%, Spandex 2%",0.98,,
+946,751994024,slim_jeans,men_jeans_slim,29.99,2022-01-27 19:43:16,751994,24,black_washed_out,slim_fit,"Cotton 98%, Spandex 2%",0.98,,
+947,751994024,slim_jeans,men_jeans_slim,29.99,2022-01-27 19:43:16,751994,24,dark_blue_denim,slim_fit,"Cotton 98%, Spandex 2%",0.98,,
+948,751994024,slim_jeans,men_jeans_slim,29.99,2022-01-27 19:43:16,751994,24,dark_gray,slim_fit,"Cotton 98%, Spandex 2%",0.98,,
+949,751994024,slim_jeans,men_jeans_slim,29.99,2022-01-27 19:43:16,751994,24,light_gray,slim_fit,"Cotton 98%, Spandex 2%",0.98,,
+950,751994024,slim_jeans,men_jeans_slim,29.99,2022-01-27 19:43:16,751994,24,dark_blue,slim_fit,"Cotton 98%, Spandex 2%",0.98,,
+951,751994024,slim_jeans,men_jeans_slim,29.99,2022-01-27 19:43:16,751994,24,dark_denim_blue,slim_fit,"Cotton 98%, Spandex 2%",0.98,,
+952,751994024,slim_jeans,men_jeans_slim,29.99,2022-01-27 19:43:16,751994,24,denim_blue,slim_fit,"Cotton 98%, Spandex 2%",0.98,,
+953,751994024,slim_jeans,men_jeans_slim,29.99,2022-01-27 19:43:16,751994,24,black_denim,slim_fit,"Cotton 98%, Spandex 2%",0.98,,
+954,751994024,slim_jeans,men_jeans_slim,29.99,2022-01-27 19:43:16,751994,24,light_blue,slim_fit,"Cotton 98%, Spandex 2%",0.98,,
+955,751994024,slim_jeans,men_jeans_slim,29.99,2022-01-27 19:43:16,751994,24,dark_blue,slim_fit,"Cotton 98%, Spandex 2%",0.98,,
+956,730863033,skinny_jeans,men_jeans_skinny,29.99,2022-01-27 19:43:16,730863,33,denim_blue_washed_out,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,
+957,730863033,skinny_jeans,men_jeans_skinny,29.99,2022-01-27 19:43:16,730863,33,black_washed_out,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,
+958,730863033,skinny_jeans,men_jeans_skinny,29.99,2022-01-27 19:43:16,730863,33,dark_denim_blue,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,
+959,730863033,skinny_jeans,men_jeans_skinny,29.99,2022-01-27 19:43:16,730863,33,light_denim_blue,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,
+960,730863033,skinny_jeans,men_jeans_skinny,29.99,2022-01-27 19:43:16,730863,33,denim_blue,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,
+961,730863033,skinny_jeans,men_jeans_skinny,29.99,2022-01-27 19:43:16,730863,33,light_gray,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,
+962,730863033,skinny_jeans,men_jeans_skinny,29.99,2022-01-27 19:43:16,730863,33,dark_blue,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,
+963,730863033,skinny_jeans,men_jeans_skinny,29.99,2022-01-27 19:43:16,730863,33,denim_blue,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,
+964,730863033,skinny_jeans,men_jeans_skinny,29.99,2022-01-27 19:43:16,730863,33,white,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,
+965,730863033,skinny_jeans,men_jeans_skinny,29.99,2022-01-27 19:43:16,730863,33,denim_blue,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,
+966,730863033,skinny_jeans,men_jeans_skinny,29.99,2022-01-27 19:43:16,730863,33,gray_denim,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,
+967,730863033,skinny_jeans,men_jeans_skinny,29.99,2022-01-27 19:43:16,730863,33,light_denim_blue,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,
+968,730863033,skinny_jeans,men_jeans_skinny,29.99,2022-01-27 19:43:16,730863,33,black_washed_out,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,
+969,730863033,skinny_jeans,men_jeans_skinny,29.99,2022-01-27 19:43:16,730863,33,black_washed_out,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,
+970,730863033,skinny_jeans,men_jeans_skinny,29.99,2022-01-27 19:43:16,730863,33,black_no_fade_black,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,
+971,730863033,skinny_jeans,men_jeans_skinny,29.99,2022-01-27 19:43:16,730863,33,denim_blue,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,
+972,730863033,skinny_jeans,men_jeans_skinny,29.99,2022-01-27 19:43:16,730863,33,blue,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,
+973,730863033,skinny_jeans,men_jeans_skinny,29.99,2022-01-27 19:43:16,730863,33,denim_blue,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,
+974,730863033,skinny_jeans,men_jeans_skinny,29.99,2022-01-27 19:43:16,730863,33,graphite_gray,skinny_fit,"Cotton 98%, Spandex 2%",0.98,,
+975,993887001,hybrid_regular_denim_joggers,men_jeans_regular,44.99,2022-01-27 19:43:16,993887,1,denim_blue,regular_fit,"Cotton 79%, Polyester 20%, Spandex 1%",0.79,,
+976,993887001,hybrid_regular_denim_joggers,men_jeans_regular,44.99,2022-01-27 19:43:16,993887,1,denim_blue,regular_fit,"Cotton 79%, Polyester 20%, Spandex 1%",0.79,,
+977,993887001,hybrid_regular_denim_joggers,men_jeans_regular,44.99,2022-01-27 19:43:16,993887,1,denim_blue,regular_fit,"Cotton 79%, Polyester 20%, Spandex 1%",0.79,,
+978,993887001,hybrid_regular_denim_joggers,men_jeans_regular,44.99,2022-01-27 19:43:16,993887,1,denim_blue,regular_fit,"Cotton 79%, Polyester 20%, Spandex 1%",0.79,,
+979,993887001,hybrid_regular_denim_joggers,men_jeans_regular,44.99,2022-01-27 19:43:16,993887,1,black,regular_fit,"Cotton 79%, Polyester 20%, Spandex 1%",0.79,,
+980,993887001,hybrid_regular_denim_joggers,men_jeans_regular,44.99,2022-01-27 19:43:16,993887,1,black,regular_fit,"Cotton 79%, Polyester 20%, Spandex 1%",0.79,,
+981,993887001,hybrid_regular_denim_joggers,men_jeans_regular,44.99,2022-01-27 19:43:16,993887,1,denim_blue,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+982,993887001,hybrid_regular_denim_joggers,men_jeans_regular,44.99,2022-01-27 19:43:16,993887,1,denim_blue,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+983,993887001,hybrid_regular_denim_joggers,men_jeans_regular,44.99,2022-01-27 19:43:16,993887,1,denim_blue,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+984,993887001,hybrid_regular_denim_joggers,men_jeans_regular,44.99,2022-01-27 19:43:16,993887,1,denim_blue,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+985,993887001,hybrid_regular_denim_joggers,men_jeans_regular,44.99,2022-01-27 19:43:16,993887,1,black,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+986,993887001,hybrid_regular_denim_joggers,men_jeans_regular,44.99,2022-01-27 19:43:16,993887,1,black,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+987,993887001,hybrid_regular_denim_joggers,men_jeans_regular,44.99,2022-01-27 19:43:16,993887,1,denim_blue,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+988,993887001,hybrid_regular_denim_joggers,men_jeans_regular,44.99,2022-01-27 19:43:16,993887,1,denim_blue,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+989,993887001,hybrid_regular_denim_joggers,men_jeans_regular,44.99,2022-01-27 19:43:16,993887,1,denim_blue,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+990,993887001,hybrid_regular_denim_joggers,men_jeans_regular,44.99,2022-01-27 19:43:16,993887,1,denim_blue,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+991,993887001,hybrid_regular_denim_joggers,men_jeans_regular,44.99,2022-01-27 19:43:16,993887,1,black,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+992,993887001,hybrid_regular_denim_joggers,men_jeans_regular,44.99,2022-01-27 19:43:16,993887,1,black,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+993,974202002,regular_denim_joggers,men_jeans_loose,29.99,2022-01-27 19:43:16,974202,2,light_denim_blue,regular_fit,Cotton 100%,1.0,,
+994,974202002,regular_denim_joggers,men_jeans_loose,29.99,2022-01-27 19:43:16,974202,2,denim_blue,regular_fit,Cotton 100%,1.0,,
+995,974202002,regular_denim_joggers,men_jeans_loose,29.99,2022-01-27 19:43:16,974202,2,black,regular_fit,Cotton 100%,1.0,,
+996,974202002,regular_denim_joggers,men_jeans_loose,29.99,2022-01-27 19:43:16,974202,2,light_denim_blue,regular_fit,Cotton 100%,1.0,,
+997,974202002,regular_denim_joggers,men_jeans_loose,29.99,2022-01-27 19:43:16,974202,2,denim_blue,regular_fit,Cotton 100%,1.0,,
+998,974202002,regular_denim_joggers,men_jeans_loose,29.99,2022-01-27 19:43:16,974202,2,black,regular_fit,Cotton 100%,1.0,,
+999,811993039,regular_jeans,men_jeans_regular,29.99,2022-01-27 19:43:16,811993,39,black_washed_out,regular_fit,"Cotton 98%, Spandex 2%",0.98,,
+1000,811993039,regular_jeans,men_jeans_regular,29.99,2022-01-27 19:43:16,811993,39,denim_blue,regular_fit,"Cotton 98%, Spandex 2%",0.98,,
+1001,811993039,regular_jeans,men_jeans_regular,29.99,2022-01-27 19:43:16,811993,39,dark_denim_blue,regular_fit,"Cotton 98%, Spandex 2%",0.98,,
+1002,811993039,regular_jeans,men_jeans_regular,29.99,2022-01-27 19:43:16,811993,39,graphite_gray,regular_fit,"Cotton 98%, Spandex 2%",0.98,,
+1003,811993039,regular_jeans,men_jeans_regular,29.99,2022-01-27 19:43:16,811993,39,light_denim_blue,regular_fit,"Cotton 98%, Spandex 2%",0.98,,
+1004,811993039,regular_jeans,men_jeans_regular,29.99,2022-01-27 19:43:16,811993,39,black,regular_fit,"Cotton 98%, Spandex 2%",0.98,,
+1005,811993039,regular_jeans,men_jeans_regular,29.99,2022-01-27 19:43:16,811993,39,cream,regular_fit,"Cotton 98%, Spandex 2%",0.98,,
+1006,811993039,regular_jeans,men_jeans_regular,29.99,2022-01-27 19:43:16,811993,39,denim_blue,regular_fit,"Cotton 98%, Spandex 2%",0.98,,
+1007,811993039,regular_jeans,men_jeans_regular,29.99,2022-01-27 19:43:16,811993,39,light_blue,regular_fit,"Cotton 98%, Spandex 2%",0.98,,
+1008,811993039,regular_jeans,men_jeans_regular,29.99,2022-01-27 19:43:16,811993,39,denim_blue,regular_fit,"Cotton 98%, Spandex 2%",0.98,,
+1009,811993039,regular_jeans,men_jeans_regular,29.99,2022-01-27 19:43:16,811993,39,dark_denim_blue,regular_fit,"Cotton 98%, Spandex 2%",0.98,,
+1010,811993039,regular_jeans,men_jeans_regular,29.99,2022-01-27 19:43:16,811993,39,pale_denim_blue,regular_fit,"Cotton 98%, Spandex 2%",0.98,,
+1011,811993039,regular_jeans,men_jeans_regular,29.99,2022-01-27 19:43:16,811993,39,dark_blue,regular_fit,"Cotton 98%, Spandex 2%",0.98,,
+1012,811993039,regular_jeans,men_jeans_regular,29.99,2022-01-27 19:43:16,811993,39,dark_denim_blue,regular_fit,"Cotton 98%, Spandex 2%",0.98,,
+1013,811993039,regular_jeans,men_jeans_regular,29.99,2022-01-27 19:43:16,811993,39,black,regular_fit,"Cotton 98%, Spandex 2%",0.98,,
+1014,811993039,regular_jeans,men_jeans_regular,29.99,2022-01-27 19:43:16,811993,39,black_washed_out,regular_fit,"Cotton 98%, Spandex 2%",0.98,,
+1015,811993039,regular_jeans,men_jeans_regular,29.99,2022-01-27 19:43:16,811993,39,denim_blue,regular_fit,"Cotton 98%, Spandex 2%",0.98,,
+1016,811993039,regular_jeans,men_jeans_regular,29.99,2022-01-27 19:43:16,811993,39,dark_denim_blue,regular_fit,"Cotton 98%, Spandex 2%",0.98,,
+1017,811993039,regular_jeans,men_jeans_regular,29.99,2022-01-27 19:43:16,811993,39,graphite_gray,regular_fit,"Cotton 98%, Spandex 2%",0.98,,
+1018,811993039,regular_jeans,men_jeans_regular,29.99,2022-01-27 19:43:16,811993,39,light_denim_blue,regular_fit,"Cotton 98%, Spandex 2%",0.98,,
+1019,811993039,regular_jeans,men_jeans_regular,29.99,2022-01-27 19:43:16,811993,39,black,regular_fit,"Cotton 98%, Spandex 2%",0.98,,
+1020,811993039,regular_jeans,men_jeans_regular,29.99,2022-01-27 19:43:16,811993,39,cream,regular_fit,"Cotton 98%, Spandex 2%",0.98,,
+1021,811993039,regular_jeans,men_jeans_regular,29.99,2022-01-27 19:43:16,811993,39,denim_blue,regular_fit,"Cotton 98%, Spandex 2%",0.98,,
+1022,811993039,regular_jeans,men_jeans_regular,29.99,2022-01-27 19:43:16,811993,39,light_blue,regular_fit,"Cotton 98%, Spandex 2%",0.98,,
+1023,811993039,regular_jeans,men_jeans_regular,29.99,2022-01-27 19:43:16,811993,39,denim_blue,regular_fit,"Cotton 98%, Spandex 2%",0.98,,
+1024,811993039,regular_jeans,men_jeans_regular,29.99,2022-01-27 19:43:16,811993,39,dark_denim_blue,regular_fit,"Cotton 98%, Spandex 2%",0.98,,
+1025,811993039,regular_jeans,men_jeans_regular,29.99,2022-01-27 19:43:16,811993,39,pale_denim_blue,regular_fit,"Cotton 98%, Spandex 2%",0.98,,
+1026,811993039,regular_jeans,men_jeans_regular,29.99,2022-01-27 19:43:16,811993,39,blue,regular_fit,"Cotton 98%, Spandex 2%",0.98,,
+1027,811993039,regular_jeans,men_jeans_regular,29.99,2022-01-27 19:43:16,811993,39,dark_blue,regular_fit,"Cotton 98%, Spandex 2%",0.98,,
+1028,811993039,regular_jeans,men_jeans_regular,29.99,2022-01-27 19:43:16,811993,39,dark_denim_blue,regular_fit,"Cotton 98%, Spandex 2%",0.98,,
+1029,993887002,hybrid_regular_denim_joggers,men_jeans_regular,44.99,2022-01-27 19:43:16,993887,2,denim_blue,regular_fit,"Cotton 79%, Polyester 20%, Spandex 1%",0.79,,
+1030,993887002,hybrid_regular_denim_joggers,men_jeans_regular,44.99,2022-01-27 19:43:16,993887,2,denim_blue,regular_fit,"Cotton 79%, Polyester 20%, Spandex 1%",0.79,,
+1031,993887002,hybrid_regular_denim_joggers,men_jeans_regular,44.99,2022-01-27 19:43:16,993887,2,denim_blue,regular_fit,"Cotton 79%, Polyester 20%, Spandex 1%",0.79,,
+1032,993887002,hybrid_regular_denim_joggers,men_jeans_regular,44.99,2022-01-27 19:43:16,993887,2,denim_blue,regular_fit,"Cotton 79%, Polyester 20%, Spandex 1%",0.79,,
+1033,993887002,hybrid_regular_denim_joggers,men_jeans_regular,44.99,2022-01-27 19:43:16,993887,2,black,regular_fit,"Cotton 79%, Polyester 20%, Spandex 1%",0.79,,
+1034,993887002,hybrid_regular_denim_joggers,men_jeans_regular,44.99,2022-01-27 19:43:16,993887,2,black,regular_fit,"Cotton 79%, Polyester 20%, Spandex 1%",0.79,,
+1035,993887002,hybrid_regular_denim_joggers,men_jeans_regular,44.99,2022-01-27 19:43:16,993887,2,denim_blue,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+1036,993887002,hybrid_regular_denim_joggers,men_jeans_regular,44.99,2022-01-27 19:43:16,993887,2,denim_blue,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+1037,993887002,hybrid_regular_denim_joggers,men_jeans_regular,44.99,2022-01-27 19:43:16,993887,2,denim_blue,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+1038,993887002,hybrid_regular_denim_joggers,men_jeans_regular,44.99,2022-01-27 19:43:16,993887,2,denim_blue,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+1039,993887002,hybrid_regular_denim_joggers,men_jeans_regular,44.99,2022-01-27 19:43:16,993887,2,black,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+1040,993887002,hybrid_regular_denim_joggers,men_jeans_regular,44.99,2022-01-27 19:43:16,993887,2,black,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+1041,993887002,hybrid_regular_denim_joggers,men_jeans_regular,44.99,2022-01-27 19:43:16,993887,2,denim_blue,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+1042,993887002,hybrid_regular_denim_joggers,men_jeans_regular,44.99,2022-01-27 19:43:16,993887,2,denim_blue,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+1043,993887002,hybrid_regular_denim_joggers,men_jeans_regular,44.99,2022-01-27 19:43:16,993887,2,denim_blue,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+1044,993887002,hybrid_regular_denim_joggers,men_jeans_regular,44.99,2022-01-27 19:43:16,993887,2,denim_blue,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+1045,993887002,hybrid_regular_denim_joggers,men_jeans_regular,44.99,2022-01-27 19:43:16,993887,2,black,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+1046,993887002,hybrid_regular_denim_joggers,men_jeans_regular,44.99,2022-01-27 19:43:16,993887,2,black,regular_fit,"Cotton 77%, Polyester 21%, Spandex 2%",0.77,,
+1047,865734001,relaxed_tapered_pull-on_jeans,men_jeans_relaxed,29.99,2022-01-27 19:43:16,865734,1,light_denim_blue,relaxed_fit,Cotton 100%,1.0,,
+1048,865734001,relaxed_tapered_pull-on_jeans,men_jeans_relaxed,29.99,2022-01-27 19:43:16,865734,1,denim_blue,relaxed_fit,Cotton 100%,1.0,,
+1049,865734001,relaxed_tapered_pull-on_jeans,men_jeans_relaxed,29.99,2022-01-27 19:43:16,865734,1,light_denim_blue,relaxed_fit,Cotton 100%,1.0,,
+1050,865734001,relaxed_tapered_pull-on_jeans,men_jeans_relaxed,29.99,2022-01-27 19:43:16,865734,1,gray,relaxed_fit,Cotton 100%,1.0,,
+1051,865734001,relaxed_tapered_pull-on_jeans,men_jeans_relaxed,29.99,2022-01-27 19:43:16,865734,1,pale_denim_blue,relaxed_fit,Cotton 100%,1.0,,
