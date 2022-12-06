@@ -18,7 +18,7 @@ The partners hired a Data Science consultancy company to answer the following qu
 2. How many different types of jeans and colors should we choose?
 3. What raw materials should we choose to make the jeans?  
 
-The main Star Jeans competitors are the American enterpises H&M and Macys. Firstly, we planned to scrape data from H&M and Macys. However, we found many websites with denied access to their data - Macys was one of them. Thus, we decided to use data from True Religion website instead of Macys. Although we could collect some data, yet it was not possible to collect everything we wanted due to permissions and website layout (that limits scraping).
+The main Star Jeans competitors are the American enterpises H&M and Macys. Firstly, we planned to scrape data from H&M and Macys. However, we found many websites with denied access to their data - Macys was one of them [(Webscraping notebook)](https://github.com/lucasquemelli/ds_ao_dev/blob/main/truereligion_webscraping.ipynb). Thus, we decided to use data from True Religion website instead of Macys. Although we could collect some data, yet it was not possible to collect everything we wanted due to permissions and website layout (that limits scraping).
 
 # 2. Business Assumptions (Formulated Hypothesis)
 
