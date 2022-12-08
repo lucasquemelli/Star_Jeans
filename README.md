@@ -24,6 +24,10 @@ The main Star Jeans competitors are the American enterpises H&M and Macys. First
 
 **Asumptions (hypothesis)** were formulated in order to be tested.
 
+1. **slim_fit** are **20% more expensive** on median than other types of fit. (H&M)
+2. **black_no_fade_black** is **the most expensive color**, **around 20%** related to others. (H&M)
+3. **ricky_super_t_stitch_straight_jean** is **around 40% more expensive** than the other products. (True Religion)
+
 # 3. Solution Strategy
 
 **Step 01 - Database:** creating a database containing informations such as prices, types, raw materials, color and collection time.
