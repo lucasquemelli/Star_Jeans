@@ -56,6 +56,20 @@ The main Star Jeans competitors are the American enterpises H&M and Macys. First
 
 # 5. Business Results
 
+In this section, the business problems set by Star Jeans's businessmen was solved and discussed.
+
+1. What is the best jeans sale price?
+
+This question must be answered based on fit and color, for example. For the most fits, a median price around USD 30.00 was found. For color, this value varies too much and must be answered based on any specific color. We have a boxplot with different colors and their prices on section 2.
+
+2. How many different types of jeans and colors should we choose?
+
+We found 5 fits and 16 colors in the H&M website. This combination may result in 80 different types of jeans. The three most frequent fit were slim, skinny and loose. We may achieve a profit between 9 and 25% by using slim fit (based on previous section). The most frequent colors were denim blue, black, light denim blue and dark denim blue. Although the previous colors were the most frequent, the most profitable color is black no fade black (between 25 and 37%). We may choose this color as the most available on the website. For True Religion we could not collect this type of data.
+
+3. What raw materials should we choose to make the jeans?
+
+We found 6 materials for the jeans, they were: cotton, polyester, spandex, lyocell, rayon and elastomultiester. However, the most correlated materials with the price, based on Pearson correlation coefficient, were elastomultiester, lyocell and rayon.
+
 # 6. Conclusions
 
 # 7. Next Steps
