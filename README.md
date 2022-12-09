@@ -72,4 +72,8 @@ We found 6 materials for the jeans, they were: cotton, polyester, spandex, lyoce
 
 # 6. Conclusions
 
+We found a range between USD 20 and USD 50 for the jeans, yet this values varies with fit and color. We must specify fit and color to set a better price. The most frequent colors were denim blue, black, light denim blue and dark denim blue. Although the previous colors were the most frequent, the most profitable color is black no fade black (between 25 and 37%). We also found 6 materials for the jeans, they were: cotton, polyester, spandex, lyocell, rayon and elastomultiester. However, the most correlated materials with the price, based on Pearson correlation coefficient, were elastomultiester, lyocell and rayon. 
+
 # 7. Next Steps
+
+Since we have few data because we could not collect data by automation (website layout changes constantly and the webscraping code must be changed), a suggested next step is to find a website which layout does not vary too much. Thus, we may collect a big quantity of data and try to use a Machine Learning model to make business decisions.
