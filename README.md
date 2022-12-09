@@ -42,6 +42,18 @@ The main Star Jeans competitors are the American enterpises H&M and Macys. First
 
 # 4. Top 3 Data Insights
 
+**Hypothesis 1:** slim_fit are 20% more expensive on median than other types of fit. (H&M)
+
+**False.** H&M Slim fit products are 9.64% and 25% cheaper (on average and on median, respectively) than other fits. They are the most available fit in the website. We may increase the price.
+
+**Hypothesis 2:** black_no_fade_black is the most expensive color, around 20% related to others. (H&M)
+
+**True.** Although it is the most expensive color, H&M Black no fade black products are 37% and 25% more expensive (on average and on median, respectively) than other colors. It is one of the least available product in the store. We may try to put more products with this color available for purchase.
+
+**Hypothesis 3:** ricky_super_t_stitch_straight_jean is around 40% more expensive than the other products. (True Religion)
+
+**True.** It is true, yet it is more than 40%. True Religion Ricky super t stitch straight jean products are 53% and 50% more expensive (on average and on median, respectively) than other products. It is the first most available products on the website. We may become it the most available and observe a profit increase.
+
 # 5. Business Results
 
 # 6. Conclusions
